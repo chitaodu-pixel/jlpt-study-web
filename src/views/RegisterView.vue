@@ -37,7 +37,7 @@ async function handleRegister() {
   message.value = ''
   try {
     await signUp(email.value, password.value)
-    message.value = '注册成功。请按 Supabase 邮件确认设置完成账号验证后登录。'
+    message.value = '注册成功，可以直接登录。'
   } catch (err) {
     error.value = err.message
   } finally {
