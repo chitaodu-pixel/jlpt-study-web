@@ -5,7 +5,7 @@ export const defaultSettings = {
   daily_words: 20,
   daily_grammar: 5,
   daily_questions: 25,
-  exam_date: '',
+  exam_date: null,
 }
 
 export const defaultProgress = {
@@ -23,7 +23,12 @@ export async function getOrCreateSettings(userId) {
 }
 
 export async function saveSettings(userId, settings) {
-  const payload = { ...settings, user_id: userId, updated_at: new Date().toISOString() }
+  const payload = {
+    ...settings,
+    exam_date: settings.exam_date || null,
+    user_id: userId,
+    updated_at: new Date().toISOString(),
+  }
   if (!supabase) return payload
   const { data, error } = await supabase.from('user_settings').upsert(payload, { onConflict: 'user_id' }).select().single()
   if (error) throw error
