@@ -60,10 +60,10 @@ async function favorite(word) {
   message.value = '已加入收藏'
 }
 
-function speak(text) {
+async function speak(text) {
   speechError.value = ''
   try {
-    speakJapanese(text)
+    await speakJapanese(text)
   } catch (err) {
     speechError.value = err.message
   }

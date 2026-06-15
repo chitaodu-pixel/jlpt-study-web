@@ -9,13 +9,14 @@
       <h2 class="jp-title">{{ item.word }}</h2>
       <p class="kana">{{ item.kana }}</p>
       <p class="meaning">{{ item.meaning }}</p>
-      <div class="example-box">
+      <div v-if="item.example" class="example-box">
         <p>{{ item.example }}</p>
         <span>{{ item.example_cn }}</span>
       </div>
+      <div v-else class="example-box muted">暂无例句</div>
       <div class="button-row">
         <button type="button" class="secondary-button" @click="$emit('speak', item.word)">单词发音</button>
-        <button type="button" class="secondary-button" @click="$emit('speak', item.example)">例句发音</button>
+        <button type="button" class="secondary-button" :disabled="!item.example" @click="$emit('speak', item.example)">例句发音</button>
       </div>
       <div class="choice-row">
         <button type="button" @click="$emit('mark', 'known')">认识</button>
@@ -31,12 +32,13 @@
         <div><dt>接续</dt><dd>{{ item.usage }}</dd></div>
         <div><dt>易错点</dt><dd>{{ item.note }}</dd></div>
       </dl>
-      <div class="example-box">
+      <div v-if="item.example" class="example-box">
         <p>{{ item.example }}</p>
         <span>{{ item.example_cn }}</span>
       </div>
+      <div v-else class="example-box muted">暂无例句</div>
       <div class="button-row">
-        <button type="button" class="secondary-button" @click="$emit('speak', item.example)">例句发音</button>
+        <button type="button" class="secondary-button" :disabled="!item.example" @click="$emit('speak', item.example)">例句发音</button>
       </div>
     </template>
   </article>
