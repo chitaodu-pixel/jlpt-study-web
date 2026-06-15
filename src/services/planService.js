@@ -36,7 +36,12 @@ export async function ensureTodayPlan(userId, settings, progress, words, grammar
     completed_question_ids: [],
   }
   if (!supabase) return payload
-  const { data, error } = await supabase.from('today_plans').upsert(payload, { onConflict: 'user_id,study_date' }).select().single()
+  if (existing) {
+    const { data, error } = await supabase.from('today_plans').update(payload).eq('id', existing.id).select().single()
+    if (error) throw error
+    return data
+  }
+  const { data, error } = await supabase.from('today_plans').insert(payload).select().single()
   if (error) throw error
   return data
 }
