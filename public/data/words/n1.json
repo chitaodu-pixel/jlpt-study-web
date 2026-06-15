@@ -1,0 +1,38 @@
+[
+  {
+    "id": "n1_word_0001",
+    "level": "N1",
+    "word": "緻密",
+    "kana": "ちみつ",
+    "meaning": "细致，缜密",
+    "example": "緻密な計画が必要です。",
+    "example_cn": "需要缜密的计划。"
+  },
+  {
+    "id": "n1_word_0002",
+    "level": "N1",
+    "word": "覆す",
+    "kana": "くつがえす",
+    "meaning": "推翻，颠覆",
+    "example": "判決を覆すのは難しい。",
+    "example_cn": "推翻判决很难。"
+  },
+  {
+    "id": "n1_word_0003",
+    "level": "N1",
+    "word": "円滑",
+    "kana": "えんかつ",
+    "meaning": "顺利，圆满",
+    "example": "会議は円滑に進みました。",
+    "example_cn": "会议顺利进行。"
+  },
+  {
+    "id": "n1_word_0004",
+    "level": "N1",
+    "word": "阻む",
+    "kana": "はばむ",
+    "meaning": "阻止，妨碍",
+    "example": "強風が前進を阻みました。",
+    "example_cn": "强风阻碍了前进。"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "n2_word_0001",
+    "level": "N2",
+    "word": "明らか",
+    "kana": "あきらか",
+    "meaning": "明显，清楚",
+    "example": "原因は明らかです。",
+    "example_cn": "原因很明显。"
+  },
+  {
+    "id": "n2_word_0002",
+    "level": "N2",
+    "word": "維持",
+    "kana": "いじ",
+    "meaning": "维持",
+    "example": "健康を維持することが大切です。",
+    "example_cn": "维持健康很重要。"
+  },
+  {
+    "id": "n2_word_0003",
+    "level": "N2",
+    "word": "妥当",
+    "kana": "だとう",
+    "meaning": "妥当，合理",
+    "example": "妥当な判断だと思います。",
+    "example_cn": "我认为是合理的判断。"
+  },
+  {
+    "id": "n2_word_0004",
+    "level": "N2",
+    "word": "省く",
+    "kana": "はぶく",
+    "meaning": "省略，去掉",
+    "example": "詳しい説明は省きます。",
+    "example_cn": "省略详细说明。"
+  }
+]

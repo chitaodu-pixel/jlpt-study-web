@@ -1,0 +1,22 @@
+[
+  {
+    "id": "n4_grammar_0001",
+    "level": "N4",
+    "grammar": "ことがある",
+    "meaning": "有时会……",
+    "usage": "动词辞书形 + ことがある",
+    "example": "週末に映画を見ることがあります。",
+    "example_cn": "周末有时会看电影。",
+    "note": "表示偶尔发生。"
+  },
+  {
+    "id": "n4_grammar_0002",
+    "level": "N4",
+    "grammar": "ておく",
+    "meaning": "事先做……",
+    "usage": "动词て形 + おく",
+    "example": "資料を読んでおきます。",
+    "example_cn": "事先读好资料。",
+    "note": "强调为之后做准备。"
+  }
+]

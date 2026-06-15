@@ -1,0 +1,22 @@
+[
+  {
+    "id": "n5_grammar_0001",
+    "level": "N5",
+    "grammar": "です",
+    "meaning": "是……",
+    "usage": "名词 + です",
+    "example": "私は学生です。",
+    "example_cn": "我是学生。",
+    "note": "礼貌判断句。"
+  },
+  {
+    "id": "n5_grammar_0002",
+    "level": "N5",
+    "grammar": "を",
+    "meaning": "宾语助词",
+    "usage": "名词 + を + 动词",
+    "example": "水を飲みます。",
+    "example_cn": "喝水。",
+    "note": "标记动作对象。"
+  }
+]

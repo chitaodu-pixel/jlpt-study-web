@@ -1,0 +1,38 @@
+[
+  {
+    "id": "n4_word_0001",
+    "level": "N4",
+    "word": "必要",
+    "kana": "ひつよう",
+    "meaning": "必要",
+    "example": "予約が必要です。",
+    "example_cn": "需要预约。"
+  },
+  {
+    "id": "n4_word_0002",
+    "level": "N4",
+    "word": "説明",
+    "kana": "せつめい",
+    "meaning": "说明，解释",
+    "example": "先生が説明しました。",
+    "example_cn": "老师说明了。"
+  },
+  {
+    "id": "n4_word_0003",
+    "level": "N4",
+    "word": "手伝う",
+    "kana": "てつだう",
+    "meaning": "帮忙",
+    "example": "母を手伝います。",
+    "example_cn": "帮妈妈。"
+  },
+  {
+    "id": "n4_word_0004",
+    "level": "N4",
+    "word": "残念",
+    "kana": "ざんねん",
+    "meaning": "遗憾",
+    "example": "それは残念です。",
+    "example_cn": "那真遗憾。"
+  }
+]

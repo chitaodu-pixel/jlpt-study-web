@@ -1,0 +1,38 @@
+[
+  {
+    "id": "n5_word_0001",
+    "level": "N5",
+    "word": "学生",
+    "kana": "がくせい",
+    "meaning": "学生",
+    "example": "私は学生です。",
+    "example_cn": "我是学生。"
+  },
+  {
+    "id": "n5_word_0002",
+    "level": "N5",
+    "word": "水",
+    "kana": "みず",
+    "meaning": "水",
+    "example": "水を飲みます。",
+    "example_cn": "喝水。"
+  },
+  {
+    "id": "n5_word_0003",
+    "level": "N5",
+    "word": "行く",
+    "kana": "いく",
+    "meaning": "去",
+    "example": "学校へ行きます。",
+    "example_cn": "去学校。"
+  },
+  {
+    "id": "n5_word_0004",
+    "level": "N5",
+    "word": "大きい",
+    "kana": "おおきい",
+    "meaning": "大的",
+    "example": "大きい犬がいます。",
+    "example_cn": "有一只大狗。"
+  }
+]

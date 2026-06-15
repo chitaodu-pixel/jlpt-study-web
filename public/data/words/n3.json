@@ -1,0 +1,38 @@
+[
+  {
+    "id": "n3_word_0001",
+    "level": "N3",
+    "word": "確認",
+    "kana": "かくにん",
+    "meaning": "确认",
+    "example": "時間を確認してください。",
+    "example_cn": "请确认时间。"
+  },
+  {
+    "id": "n3_word_0002",
+    "level": "N3",
+    "word": "影響",
+    "kana": "えいきょう",
+    "meaning": "影响",
+    "example": "雨の影響で遅れました。",
+    "example_cn": "受下雨影响迟到了。"
+  },
+  {
+    "id": "n3_word_0003",
+    "level": "N3",
+    "word": "努力",
+    "kana": "どりょく",
+    "meaning": "努力",
+    "example": "努力を続けます。",
+    "example_cn": "继续努力。"
+  },
+  {
+    "id": "n3_word_0004",
+    "level": "N3",
+    "word": "比べる",
+    "kana": "くらべる",
+    "meaning": "比较",
+    "example": "二つの商品を比べます。",
+    "example_cn": "比较两个商品。"
+  }
+]
