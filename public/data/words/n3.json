@@ -2,37 +2,1720 @@
   {
     "id": "n3_word_0001",
     "level": "N3",
-    "word": "確認",
-    "kana": "かくにん",
-    "meaning": "确认",
-    "example": "時間を確認してください。",
-    "example_cn": "请确认时间。"
+    "word": "明かり",
+    "kana": "あかり",
+    "meaning": "light; illumination; glow; gleam",
+    "example": "",
+    "example_cn": ""
   },
   {
     "id": "n3_word_0002",
     "level": "N3",
-    "word": "影響",
-    "kana": "えいきょう",
-    "meaning": "影响",
-    "example": "雨の影響で遅れました。",
-    "example_cn": "受下雨影响迟到了。"
+    "word": "明ける",
+    "kana": "あける",
+    "meaning": "to dawn,to become daylight",
+    "example": "",
+    "example_cn": ""
   },
   {
     "id": "n3_word_0003",
     "level": "N3",
-    "word": "努力",
-    "kana": "どりょく",
-    "meaning": "努力",
-    "example": "努力を続けます。",
-    "example_cn": "继续努力。"
+    "word": "明らか",
+    "kana": "あきらか",
+    "meaning": "clear; obvious",
+    "example": "",
+    "example_cn": ""
   },
   {
     "id": "n3_word_0004",
     "level": "N3",
-    "word": "比べる",
-    "kana": "くらべる",
-    "meaning": "比较",
-    "example": "二つの商品を比べます。",
-    "example_cn": "比较两个商品。"
+    "word": "悪魔",
+    "kana": "あくま",
+    "meaning": "devil; demon; fiend; Satan",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0005",
+    "level": "N3",
+    "word": "暗記",
+    "kana": "あんき",
+    "meaning": "memorization; learning by heart",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0006",
+    "level": "N3",
+    "word": "新た",
+    "kana": "あらた",
+    "meaning": "new; fresh; novel",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0007",
+    "level": "N3",
+    "word": "有らゆる",
+    "kana": "あらゆる",
+    "meaning": "all; every",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0008",
+    "level": "N3",
+    "word": "集まり",
+    "kana": "あつまり",
+    "meaning": "gathering; meeting; assembly; collection; attendance",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0009",
+    "level": "N3",
+    "word": "部分",
+    "kana": "ぶぶん",
+    "meaning": "portion; section; part",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0010",
+    "level": "N3",
+    "word": "分",
+    "kana": "ぶん",
+    "meaning": "part; segment; share; ration",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0011",
+    "level": "N3",
+    "word": "文明",
+    "kana": "ぶんめい",
+    "meaning": "civilization; culture",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0012",
+    "level": "N3",
+    "word": "分析",
+    "kana": "ぶんせき",
+    "meaning": "analysis",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0013",
+    "level": "N3",
+    "word": "分野",
+    "kana": "ぶんや",
+    "meaning": "field; sphere; realm; division; branch",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0014",
+    "level": "N3",
+    "word": "父親",
+    "kana": "ちちおや",
+    "meaning": "father",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0015",
+    "level": "N3",
+    "word": "地平線",
+    "kana": "ちへいせん",
+    "meaning": "horizon (related to land)",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0016",
+    "level": "N3",
+    "word": "地位",
+    "kana": "ちい",
+    "meaning": "(social) position; status",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0017",
+    "level": "N3",
+    "word": "長期",
+    "kana": "ちょうき",
+    "meaning": "long-term",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0018",
+    "level": "N3",
+    "word": "中",
+    "kana": "ちゅう",
+    "meaning": "during; while; medium; middle",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0019",
+    "level": "N3",
+    "word": "中学",
+    "kana": "ちゅうがく",
+    "meaning": "junior high school; middle school",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0020",
+    "level": "N3",
+    "word": "昼食",
+    "kana": "ちゅうしょく",
+    "meaning": "lunch; midday meal",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0021",
+    "level": "N3",
+    "word": "大部分",
+    "kana": "だいぶぶん",
+    "meaning": "most part; greater part; majority",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0022",
+    "level": "N3",
+    "word": "駄目",
+    "kana": "だめ",
+    "meaning": "no good; cannot",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0023",
+    "level": "N3",
+    "word": "男子",
+    "kana": "だんし",
+    "meaning": "youth; young man",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0024",
+    "level": "N3",
+    "word": "出会い",
+    "kana": "であい",
+    "meaning": "meeting; rendezvous; encounter",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0025",
+    "level": "N3",
+    "word": "出会う",
+    "kana": "であう",
+    "meaning": "to meet (by chance); to come across; to run across; to encounter",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0026",
+    "level": "N3",
+    "word": "読書",
+    "kana": "どくしょ",
+    "meaning": "reading",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0027",
+    "level": "N3",
+    "word": "努力",
+    "kana": "どりょく",
+    "meaning": "effort; exertion; endeavor; hard work; striving",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0028",
+    "level": "N3",
+    "word": "同一",
+    "kana": "どういつ",
+    "meaning": "identical; same; one and the same; equal",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0029",
+    "level": "N3",
+    "word": "円",
+    "kana": "えん",
+    "meaning": "yen; Japanese monetary unit; circle",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0030",
+    "level": "N3",
+    "word": "不利",
+    "kana": "ふり",
+    "meaning": "disadvantage; handicap; unfavorable position",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0031",
+    "level": "N3",
+    "word": "不足",
+    "kana": "ふそく",
+    "meaning": "insufficiency; shortage; deficiency; lack; dearth",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0032",
+    "level": "N3",
+    "word": "再び",
+    "kana": "ふたたび",
+    "meaning": "again; once more; a second time",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0033",
+    "level": "N3",
+    "word": "外交",
+    "kana": "がいこう",
+    "meaning": "diplomacy",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0034",
+    "level": "N3",
+    "word": "外出",
+    "kana": "がいしゅつ",
+    "meaning": "going out; outing; leaving (one's home, office, etc.)",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0035",
+    "level": "N3",
+    "word": "学期",
+    "kana": "がっき",
+    "meaning": "school term; semester",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0036",
+    "level": "N3",
+    "word": "学",
+    "kana": "がく",
+    "meaning": "learning; education; study of",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0037",
+    "level": "N3",
+    "word": "学問",
+    "kana": "がくもん",
+    "meaning": "scholarship; study; learning",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0038",
+    "level": "N3",
+    "word": "学者",
+    "kana": "がくしゃ",
+    "meaning": "scholar",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0039",
+    "level": "N3",
+    "word": "学習",
+    "kana": "がくしゅう",
+    "meaning": "study; learning; tutorial",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0040",
+    "level": "N3",
+    "word": "議長",
+    "kana": "ぎちょう",
+    "meaning": "chairman; president; moderator",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0041",
+    "level": "N3",
+    "word": "議会",
+    "kana": "ぎかい",
+    "meaning": "congress; parliament; diet; legislative assembly",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0042",
+    "level": "N3",
+    "word": "語学",
+    "kana": "ごがく",
+    "meaning": "study of foreign languages; linguistics",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0043",
+    "level": "N3",
+    "word": "激しい",
+    "kana": "はげしい",
+    "meaning": "violent; extreme; intense",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0044",
+    "level": "N3",
+    "word": "母親",
+    "kana": "ははおや",
+    "meaning": "mother",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0045",
+    "level": "N3",
+    "word": "博物館",
+    "kana": "はくぶつかん",
+    "meaning": "museum",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0046",
+    "level": "N3",
+    "word": "販売",
+    "kana": "はんばい",
+    "meaning": "sales; selling; marketing",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0047",
+    "level": "N3",
+    "word": "発明",
+    "kana": "はつめい",
+    "meaning": "invention",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0048",
+    "level": "N3",
+    "word": "外す",
+    "kana": "はずす",
+    "meaning": "to remove; to undo; to drop; to miss",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0049",
+    "level": "N3",
+    "word": "品",
+    "kana": "ひん",
+    "meaning": "elegance, article",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0050",
+    "level": "N3",
+    "word": "一言",
+    "kana": "ひとこと",
+    "meaning": "single word; a few words; brief comment",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0051",
+    "level": "N3",
+    "word": "一人一人",
+    "kana": "ひとりひとり",
+    "meaning": "one by one; each; one at a time",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0052",
+    "level": "N3",
+    "word": "本物",
+    "kana": "ほんもの",
+    "meaning": "genuine article; real thing; real deal",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0053",
+    "level": "N3",
+    "word": "本人",
+    "kana": "ほんにん",
+    "meaning": "the person in question; the person themselves; said person",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0054",
+    "level": "N3",
+    "word": "一致",
+    "kana": "いっち",
+    "meaning": "agreement; union; match; coincidence",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0055",
+    "level": "N3",
+    "word": "一時",
+    "kana": "いちじ",
+    "meaning": "one o'clock",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0056",
+    "level": "N3",
+    "word": "意外",
+    "kana": "いがい",
+    "meaning": "unexpected; surprising",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0057",
+    "level": "N3",
+    "word": "一家",
+    "kana": "いっか",
+    "meaning": "a family; a household; a home; one's family; whole family",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0058",
+    "level": "N3",
+    "word": "今に",
+    "kana": "いまに",
+    "meaning": "before long; even now",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0059",
+    "level": "N3",
+    "word": "今にも",
+    "kana": "いまにも",
+    "meaning": "at any moment; at any minute; on the verge of",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0060",
+    "level": "N3",
+    "word": "一般",
+    "kana": "いっぱん",
+    "meaning": "general; universal; ordinary; average; common",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0061",
+    "level": "N3",
+    "word": "一方",
+    "kana": "いっぽう",
+    "meaning": "one (esp. of two); one way; the other direction; although",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0062",
+    "level": "N3",
+    "word": "一生",
+    "kana": "いっしょう",
+    "meaning": "whole life; a lifetime; a generation",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0063",
+    "level": "N3",
+    "word": "一種",
+    "kana": "いっしゅ",
+    "meaning": "species; kind; variety",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0064",
+    "level": "N3",
+    "word": "一瞬",
+    "kana": "いっしゅん",
+    "meaning": "instant; moment; for an instant",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0065",
+    "level": "N3",
+    "word": "一層",
+    "kana": "いっそう",
+    "meaning": "much more; still more; all the more; single layer; sooner; preferably",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0066",
+    "level": "N3",
+    "word": "一体",
+    "kana": "いったい",
+    "meaning": "(what) the heck; (why) in the world",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0067",
+    "level": "N3",
+    "word": "所謂",
+    "kana": "いわゆる",
+    "meaning": "what is called; as it is called; the so-called; so to speak",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0068",
+    "level": "N3",
+    "word": "邪魔",
+    "kana": "じゃま",
+    "meaning": "hindrance",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0069",
+    "level": "N3",
+    "word": "化学",
+    "kana": "かがく",
+    "meaning": "chemistry",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0070",
+    "level": "N3",
+    "word": "会",
+    "kana": "かい",
+    "meaning": "meeting; assembly; party; association; club",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0071",
+    "level": "N3",
+    "word": "会員",
+    "kana": "かいいん",
+    "meaning": "member",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0072",
+    "level": "N3",
+    "word": "海外",
+    "kana": "かいがい",
+    "meaning": "foreign; abroad; overseas",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0073",
+    "level": "N3",
+    "word": "会合",
+    "kana": "かいごう",
+    "meaning": "meeting; assembly; gathering; association",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0074",
+    "level": "N3",
+    "word": "会計",
+    "kana": "かいけい",
+    "meaning": "finance; account; treasurer; bill",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0075",
+    "level": "N3",
+    "word": "開始",
+    "kana": "かいし",
+    "meaning": "start; commencement; beginning; initiation",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0076",
+    "level": "N3",
+    "word": "科目",
+    "kana": "かもく",
+    "meaning": "(school) subject; curriculum; course",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0077",
+    "level": "N3",
+    "word": "権利",
+    "kana": "けんり",
+    "meaning": "right; privilege",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0078",
+    "level": "N3",
+    "word": "基本",
+    "kana": "きほん",
+    "meaning": "basics; fundamentals; basis; foundation",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0079",
+    "level": "N3",
+    "word": "記事",
+    "kana": "きじ",
+    "meaning": "article; news story; report; account",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0080",
+    "level": "N3",
+    "word": "気味",
+    "kana": "きみ",
+    "meaning": "sensation; feeling; tendency",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0081",
+    "level": "N3",
+    "word": "記念",
+    "kana": "きねん",
+    "meaning": "commemoration; celebration; honoring the memory of something",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0082",
+    "level": "N3",
+    "word": "気に入る",
+    "kana": "きにいる",
+    "meaning": "to like; to take a liking to",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0083",
+    "level": "N3",
+    "word": "記入",
+    "kana": "きにゅう",
+    "meaning": "entry; filling in; filling out",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0084",
+    "level": "N3",
+    "word": "記憶",
+    "kana": "きおく",
+    "meaning": "memory; recollection; remembrance",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0085",
+    "level": "N3",
+    "word": "記者",
+    "kana": "きしゃ",
+    "meaning": "reporter; journalist",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0086",
+    "level": "N3",
+    "word": "期待",
+    "kana": "きたい",
+    "meaning": "expectation; anticipation; hope",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0087",
+    "level": "N3",
+    "word": "国家",
+    "kana": "こっか",
+    "meaning": "state; country; nation",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0088",
+    "level": "N3",
+    "word": "国会",
+    "kana": "こっかい",
+    "meaning": "National Diet; legislative assembly of Japan; parliament; congress",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0089",
+    "level": "N3",
+    "word": "国境",
+    "kana": "こっきょう",
+    "meaning": "national border",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0090",
+    "level": "N3",
+    "word": "国語",
+    "kana": "こくご",
+    "meaning": "national language",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0091",
+    "level": "N3",
+    "word": "国民",
+    "kana": "こくみん",
+    "meaning": "people (of a country); nation; citizen; national",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0092",
+    "level": "N3",
+    "word": "今後",
+    "kana": "こんご",
+    "meaning": "from now on; hereafter",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0093",
+    "level": "N3",
+    "word": "今回",
+    "kana": "こんかい",
+    "meaning": "now; this time; lately",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0094",
+    "level": "N3",
+    "word": "今日",
+    "kana": "こんにち",
+    "meaning": "today; this day",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0095",
+    "level": "N3",
+    "word": "転ぶ",
+    "kana": "ころぶ",
+    "meaning": "to fall down; to fall over",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0096",
+    "level": "N3",
+    "word": "高速",
+    "kana": "こうそく",
+    "meaning": "high-speed; rapid; express",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0097",
+    "level": "N3",
+    "word": "訓練",
+    "kana": "くんれん",
+    "meaning": "training; drill; practice; discipline",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0098",
+    "level": "N3",
+    "word": "教科書",
+    "kana": "きょうかしょ",
+    "meaning": "textbook; coursebook; schoolbook",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0099",
+    "level": "N3",
+    "word": "協力",
+    "kana": "きょうりょく",
+    "meaning": "cooperation; collaboration",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0100",
+    "level": "N3",
+    "word": "強力",
+    "kana": "きょうりょく",
+    "meaning": "powerful; strong",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0101",
+    "level": "N3",
+    "word": "急激",
+    "kana": "きゅうげき",
+    "meaning": "sudden; abrupt; rapid; sharp; drastic; radical",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0102",
+    "level": "N3",
+    "word": "急に",
+    "kana": "きゅうに",
+    "meaning": "swiftly; rapidly; quickly; immediately; hastily",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0103",
+    "level": "N3",
+    "word": "吸収",
+    "kana": "きゅうしゅう",
+    "meaning": "absorption; suction; attraction",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0104",
+    "level": "N3",
+    "word": "急速",
+    "kana": "きゅうそく",
+    "meaning": "rapid (e.g. progress)",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0105",
+    "level": "N3",
+    "word": "真面目",
+    "kana": "まじめ",
+    "meaning": "serious; earnest",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0106",
+    "level": "N3",
+    "word": "真っ赤",
+    "kana": "まっか",
+    "meaning": "bright red; deep red; flushed (of face)",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0107",
+    "level": "N3",
+    "word": "学ぶ",
+    "kana": "まなぶ",
+    "meaning": "to study (in depth); to learn; to take lessons in",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0108",
+    "level": "N3",
+    "word": "万一",
+    "kana": "まんいち",
+    "meaning": "emergency; unlikely event; by some chance; by some possibility",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0109",
+    "level": "N3",
+    "word": "満足",
+    "kana": "まんぞく",
+    "meaning": "satisfaction; contentment; sufficient; enough",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0110",
+    "level": "N3",
+    "word": "明確",
+    "kana": "めいかく",
+    "meaning": "clear; precise; definite; distinct",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0111",
+    "level": "N3",
+    "word": "飯",
+    "kana": "めし",
+    "meaning": "cooked rice; meal",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0112",
+    "level": "N3",
+    "word": "味方",
+    "kana": "みかた",
+    "meaning": "friend; ally; supporter; taking sides with; supporting",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0113",
+    "level": "N3",
+    "word": "魅力",
+    "kana": "みりょく",
+    "meaning": "charm; fascination; glamour; attraction; appeal",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0114",
+    "level": "N3",
+    "word": "木曜",
+    "kana": "もくよう",
+    "meaning": "Thursday",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0115",
+    "level": "N3",
+    "word": "半ば",
+    "kana": "なかば",
+    "meaning": "middle; half; semi; halfway; partly",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0116",
+    "level": "N3",
+    "word": "熱心",
+    "kana": "ねっしん",
+    "meaning": "enthusiastic; eager",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0117",
+    "level": "N3",
+    "word": "日本",
+    "kana": "にほん",
+    "meaning": "Japan",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0118",
+    "level": "N3",
+    "word": "能力",
+    "kana": "のうりょく",
+    "meaning": "ability; faculty",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0119",
+    "level": "N3",
+    "word": "入場",
+    "kana": "にゅうじょう",
+    "meaning": "entrance; admission; entering",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0120",
+    "level": "N3",
+    "word": "お昼",
+    "kana": "おひる",
+    "meaning": "lunch; midday; daytime",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0121",
+    "level": "N3",
+    "word": "収める",
+    "kana": "おさめる",
+    "meaning": "to supply; to dedicate; to make an offering; to pay",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0122",
+    "level": "N3",
+    "word": "連続",
+    "kana": "れんぞく",
+    "meaning": "continuation; succession; series",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0123",
+    "level": "N3",
+    "word": "利益",
+    "kana": "りえき",
+    "meaning": "profit; gains; benefit",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0124",
+    "level": "N3",
+    "word": "利口",
+    "kana": "りこう",
+    "meaning": "clever; intelligent; wise; bright; sharp",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0125",
+    "level": "N3",
+    "word": "留学",
+    "kana": "りゅうがく",
+    "meaning": "studying abroad",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0126",
+    "level": "N3",
+    "word": "作品",
+    "kana": "さくひん",
+    "meaning": "work of art; performance",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0127",
+    "level": "N3",
+    "word": "左右",
+    "kana": "さゆう",
+    "meaning": "left and right",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0128",
+    "level": "N3",
+    "word": "成長",
+    "kana": "せいちょう",
+    "meaning": "growth; development; growing up; becoming an adult",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0129",
+    "level": "N3",
+    "word": "製品",
+    "kana": "せいひん",
+    "meaning": "manufactured goods; finished goods; product",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0130",
+    "level": "N3",
+    "word": "青年",
+    "kana": "せいねん",
+    "meaning": "youth; young man",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0131",
+    "level": "N3",
+    "word": "刺激",
+    "kana": "しげき",
+    "meaning": "stimulus; impetus; incentive; encouragement; motivation; provocation; excitement; thrill",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0132",
+    "level": "N3",
+    "word": "資本",
+    "kana": "しほん",
+    "meaning": "funds; capital",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0133",
+    "level": "N3",
+    "word": "身長",
+    "kana": "しんちょう",
+    "meaning": "body height; stature",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0134",
+    "level": "N3",
+    "word": "進学",
+    "kana": "しんがく",
+    "meaning": "entering a higher-level school (often university)",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0135",
+    "level": "N3",
+    "word": "新鮮",
+    "kana": "しんせん",
+    "meaning": "fresh",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0136",
+    "level": "N3",
+    "word": "支店",
+    "kana": "してん",
+    "meaning": "branch office; branch store",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0137",
+    "level": "N3",
+    "word": "使用",
+    "kana": "しよう",
+    "meaning": "use; application; employment; utilization.",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0138",
+    "level": "N3",
+    "word": "食品",
+    "kana": "しょくひん",
+    "meaning": "food; food products",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0139",
+    "level": "N3",
+    "word": "書物",
+    "kana": "しょもつ",
+    "meaning": "book; volume",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0140",
+    "level": "N3",
+    "word": "書類",
+    "kana": "しょるい",
+    "meaning": "document; official papers",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0141",
+    "level": "N3",
+    "word": "書斎",
+    "kana": "しょさい",
+    "meaning": "study; library; den; home office; reading room",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0142",
+    "level": "N3",
+    "word": "商売",
+    "kana": "しょうばい",
+    "meaning": "trade; business; commerce; transaction; occupation",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0143",
+    "level": "N3",
+    "word": "奨学金",
+    "kana": "しょうがくきん",
+    "meaning": "scholarship; stipend; student loan",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0144",
+    "level": "N3",
+    "word": "正午",
+    "kana": "しょうご",
+    "meaning": "midday",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0145",
+    "level": "N3",
+    "word": "商品",
+    "kana": "しょうひん",
+    "meaning": "commodity; article of commerce; goods; stock; merchandise",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0146",
+    "level": "N3",
+    "word": "少女",
+    "kana": "しょうじょ",
+    "meaning": "little girl; maiden; young lady",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0147",
+    "level": "N3",
+    "word": "証明",
+    "kana": "しょうめい",
+    "meaning": "proof; verification; certification",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0148",
+    "level": "N3",
+    "word": "少年",
+    "kana": "しょうねん",
+    "meaning": "boy; juvenile; young boy; youth; lad",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0149",
+    "level": "N3",
+    "word": "少々",
+    "kana": "しょうしょう",
+    "meaning": "just a minute; small quantity",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0150",
+    "level": "N3",
+    "word": "招待",
+    "kana": "しょうたい",
+    "meaning": "invitation",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0151",
+    "level": "N3",
+    "word": "週",
+    "kana": "しゅう",
+    "meaning": "week",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0152",
+    "level": "N3",
+    "word": "集中",
+    "kana": "しゅうちゅう",
+    "meaning": "concentration; focusing; centralization; integration",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0153",
+    "level": "N3",
+    "word": "集団",
+    "kana": "しゅうだん",
+    "meaning": "group; mass",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0154",
+    "level": "N3",
+    "word": "収穫",
+    "kana": "しゅうかく",
+    "meaning": "harvest; crop; fruits (of one's labors)",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0155",
+    "level": "N3",
+    "word": "週間",
+    "kana": "しゅうかん",
+    "meaning": "week",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0156",
+    "level": "N3",
+    "word": "週刊",
+    "kana": "しゅうかん",
+    "meaning": "weekly publication",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0157",
+    "level": "N3",
+    "word": "収入",
+    "kana": "しゅうにゅう",
+    "meaning": "income; receipts; revenue; salary",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0158",
+    "level": "N3",
+    "word": "速度",
+    "kana": "そくど",
+    "meaning": "speed; velocity; pace; rate",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0159",
+    "level": "N3",
+    "word": "少しも",
+    "kana": "すこしも",
+    "meaning": "anything of; not one bit (with negative sentence)",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0160",
+    "level": "N3",
+    "word": "大半",
+    "kana": "たいはん",
+    "meaning": "majority; more than half; most; largely; mainly",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0161",
+    "level": "N3",
+    "word": "大会",
+    "kana": "たいかい",
+    "meaning": "convention; rally; conference; tournament;",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0162",
+    "level": "N3",
+    "word": "大した",
+    "kana": "たいした",
+    "meaning": "considerable; great; important; significant; a big deal",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0163",
+    "level": "N3",
+    "word": "単なる",
+    "kana": "たんなる",
+    "meaning": "mere; simple; sheer",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0164",
+    "level": "N3",
+    "word": "多少",
+    "kana": "たしょう",
+    "meaning": "more or less; somewhat; a little; a few; some",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0165",
+    "level": "N3",
+    "word": "手品",
+    "kana": "てじな",
+    "meaning": "magic trick; illusion",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0166",
+    "level": "N3",
+    "word": "哲学",
+    "kana": "てつがく",
+    "meaning": "philosophy",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0167",
+    "level": "N3",
+    "word": "徹夜",
+    "kana": "てつや",
+    "meaning": "staying up all night",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0168",
+    "level": "N3",
+    "word": "土地",
+    "kana": "とち",
+    "meaning": "plot of land; lot; soil",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0169",
+    "level": "N3",
+    "word": "都会",
+    "kana": "とかい",
+    "meaning": "(big) city",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0170",
+    "level": "N3",
+    "word": "取れる",
+    "kana": "とれる",
+    "meaning": "to come off; to be removed; to be obtainable",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0171",
+    "level": "N3",
+    "word": "取り上げる",
+    "kana": "とりあげる",
+    "meaning": "to pick up",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0172",
+    "level": "N3",
+    "word": "図書",
+    "kana": "としょ",
+    "meaning": "books",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0173",
+    "level": "N3",
+    "word": "通学",
+    "kana": "つうがく",
+    "meaning": "commuting to school; school commute",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0174",
+    "level": "N3",
+    "word": "受け取る",
+    "kana": "うけとる",
+    "meaning": "to receive; to understand",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0175",
+    "level": "N3",
+    "word": "上手い",
+    "kana": "うまい",
+    "meaning": "skillful; delicious",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0176",
+    "level": "N3",
+    "word": "運転",
+    "kana": "うんてん",
+    "meaning": "operation; driving",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0177",
+    "level": "N3",
+    "word": "売れる",
+    "kana": "うれる",
+    "meaning": "to sell (well)",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0178",
+    "level": "N3",
+    "word": "分ける",
+    "kana": "わける",
+    "meaning": "to divide; to split; to part; to separate",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0179",
+    "level": "N3",
+    "word": "悪口",
+    "kana": "わるぐち",
+    "meaning": "slander; bad-mouthing; abuse; insult; speaking ill (of)",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0180",
+    "level": "N3",
+    "word": "夜明け",
+    "kana": "よあけ",
+    "meaning": "dawn; daybreak",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0181",
+    "level": "N3",
+    "word": "余分",
+    "kana": "よぶん",
+    "meaning": "extra; excess; surplus",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0182",
+    "level": "N3",
+    "word": "読み",
+    "kana": "よみ",
+    "meaning": "reading (of a kanji, situation, etc)",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0183",
+    "level": "N3",
+    "word": "夜中",
+    "kana": "よなか",
+    "meaning": "middle of the night; dead of night",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0184",
+    "level": "N3",
+    "word": "宜しい",
+    "kana": "よろしい",
+    "meaning": "(respectful) OK; all right",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0185",
+    "level": "N3",
+    "word": "唯一",
+    "kana": "ゆいいつ",
+    "meaning": "only; sole; unique",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0186",
+    "level": "N3",
+    "word": "輸入",
+    "kana": "ゆにゅう",
+    "meaning": "import; importation; introduction",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0187",
+    "level": "N3",
+    "word": "輸出",
+    "kana": "ゆしゅつ",
+    "meaning": "export; exportation",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0188",
+    "level": "N3",
+    "word": "夕べ",
+    "kana": "ゆうべ",
+    "meaning": "evening / last night; yesterday evening",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0189",
+    "level": "N3",
+    "word": "有利",
+    "kana": "ゆうり",
+    "meaning": "advantageous; favorable; profitable",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0190",
+    "level": "N3",
+    "word": "全国",
+    "kana": "ぜんこく",
+    "meaning": "the whole country",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n3_word_0191",
+    "level": "N3",
+    "word": "随分",
+    "kana": "ずいぶん",
+    "meaning": "very; extremely; surprisingly; considerably; awfully",
+    "example": "",
+    "example_cn": ""
   }
 ]

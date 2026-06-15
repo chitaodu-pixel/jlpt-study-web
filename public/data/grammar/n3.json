@@ -2,21 +2,1821 @@
   {
     "id": "n3_grammar_0001",
     "level": "N3",
-    "grammar": "ばかり",
-    "meaning": "刚刚……；总是……",
-    "usage": "动词た形 + ばかり",
-    "example": "昼ご飯を食べたばかりです。",
-    "example_cn": "刚吃过午饭。",
-    "note": "注意和「ところ」的语感差异。"
+    "grammar": "上げる（あげる）",
+    "meaning": "to finish doing ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
   },
   {
     "id": "n3_grammar_0002",
     "level": "N3",
-    "grammar": "ようにする",
-    "meaning": "努力做到……",
-    "usage": "动词辞书形/ない形 + ようにする",
-    "example": "毎日復習するようにしています。",
-    "example_cn": "我尽量每天复习。",
-    "note": "表示习惯性努力。"
+    "grammar": "あまり",
+    "meaning": "so much… that",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0003",
+    "level": "N3",
+    "grammar": "あまりにも",
+    "meaning": "too much; so much… that; excessively ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0004",
+    "level": "N3",
+    "grammar": "合う（あう）",
+    "meaning": "do something together",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0005",
+    "level": "N3",
+    "grammar": "ばいい",
+    "meaning": "should; can; it’d be good if ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0006",
+    "level": "N3",
+    "grammar": "ばよかった",
+    "meaning": "should have; would have been better if ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0007",
+    "level": "N3",
+    "grammar": "ば～ほど",
+    "meaning": "the more… the more ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0008",
+    "level": "N3",
+    "grammar": "ば～のに",
+    "meaning": "would have; should have; if only ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0009",
+    "level": "N3",
+    "grammar": "ばかりで",
+    "meaning": "only; just ~ (negative description)",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0010",
+    "level": "N3",
+    "grammar": "ばかりでなく",
+    "meaning": "not only... but also; as well as ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0011",
+    "level": "N3",
+    "grammar": "べきだ",
+    "meaning": "should do; must do ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0012",
+    "level": "N3",
+    "grammar": "べきではない",
+    "meaning": "should not do; must not do ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0013",
+    "level": "N3",
+    "grammar": "別に～ない（べつに～ない）",
+    "meaning": "not really, not particularly",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0014",
+    "level": "N3",
+    "grammar": "ぶりに",
+    "meaning": "for the first time in (period of time)",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0015",
+    "level": "N3",
+    "grammar": "中（ちゅう）",
+    "meaning": "currently; during; at some point; throughout; before the end of ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0016",
+    "level": "N3",
+    "grammar": "だけ",
+    "meaning": "as much as ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0017",
+    "level": "N3",
+    "grammar": "だけでなく",
+    "meaning": "not only… but also ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0018",
+    "level": "N3",
+    "grammar": "だけど",
+    "meaning": "but; however; although; regarding ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0019",
+    "level": "N3",
+    "grammar": "だらけ",
+    "meaning": "full of; covered with; a lot of (something undesirable)",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0020",
+    "level": "N3",
+    "grammar": "どんなに～ても",
+    "meaning": "no matter how (much)",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0021",
+    "level": "N3",
+    "grammar": "どうしても",
+    "meaning": "no matter what; at any cost; after all ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0022",
+    "level": "N3",
+    "grammar": "ふりをする",
+    "meaning": "to pretend; to act as if ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0023",
+    "level": "N3",
+    "grammar": "ふと",
+    "meaning": "suddenly; accidentally; unexpectedly; unintentionally ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0024",
+    "level": "N3",
+    "grammar": "がち",
+    "meaning": "tend to; tendency to; frequently; often; to do something easily",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0025",
+    "level": "N3",
+    "grammar": "がたい",
+    "meaning": "very difficult to; hard to ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0026",
+    "level": "N3",
+    "grammar": "気味（ぎみ）",
+    "meaning": "-like; -looking; -looked; tending to ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0027",
+    "level": "N3",
+    "grammar": "ごとに",
+    "meaning": "each; every; at intervals of ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0028",
+    "level": "N3",
+    "grammar": "ほど",
+    "meaning": "degree; extent; bounds; upper limit",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0029",
+    "level": "N3",
+    "grammar": "ほど～ない",
+    "meaning": "is not as… as ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0030",
+    "level": "N3",
+    "grammar": "一度に（いちどに）",
+    "meaning": "all at once",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0031",
+    "level": "N3",
+    "grammar": "いくら～ても",
+    "meaning": "no matter how ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0032",
+    "level": "N3",
+    "grammar": "一方だ（いっぽうだ）",
+    "meaning": "more and more; continue to ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0033",
+    "level": "N3",
+    "grammar": "一体（いったい）",
+    "meaning": "emphasis; what on earth; what in the world",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0034",
+    "level": "N3",
+    "grammar": "じゃない",
+    "meaning": "maybe; most likely; confirmation of information; express surprise towards listener",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0035",
+    "level": "N3",
+    "grammar": "か何か（かなにか）",
+    "meaning": "or something ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0036",
+    "level": "N3",
+    "grammar": "かける",
+    "meaning": "half-; not yet finished; in the middle of~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0037",
+    "level": "N3",
+    "grammar": "から〜にかけて",
+    "meaning": "through; from [A] to [B]",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0038",
+    "level": "N3",
+    "grammar": "代わりに（かわりに）",
+    "meaning": "instead of; as a substitute for; in exchange for; in return for",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0039",
+    "level": "N3",
+    "grammar": "結果（けっか）",
+    "meaning": "as a result of; after ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0040",
+    "level": "N3",
+    "grammar": "結局（けっきょく）",
+    "meaning": "after all; eventually; in the end ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0041",
+    "level": "N3",
+    "grammar": "決して～ない（けっして～ない）",
+    "meaning": "never; by no means ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0042",
+    "level": "N3",
+    "grammar": "切れない（きれない）",
+    "meaning": "unable to do; too much to finish/complete",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0043",
+    "level": "N3",
+    "grammar": "きり",
+    "meaning": "only; just; since; after ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0044",
+    "level": "N3",
+    "grammar": "切る（きる）",
+    "meaning": "to do something completely to the end",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0045",
+    "level": "N3",
+    "grammar": "っけ",
+    "meaning": "a casual suffix to confirm something you are trying to remember",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0046",
+    "level": "N3",
+    "grammar": "込む（こむ）",
+    "meaning": "to do something for a long time or to move something inside",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0047",
+    "level": "N3",
+    "grammar": "こそ",
+    "meaning": "for sure (emphasize preceding word); precisely; definitely ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0048",
+    "level": "N3",
+    "grammar": "こと",
+    "meaning": "(must) do",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0049",
+    "level": "N3",
+    "grammar": "ことから",
+    "meaning": "from the fact that ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0050",
+    "level": "N3",
+    "grammar": "ことになっている",
+    "meaning": "expresses a standard, rule or expectation",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0051",
+    "level": "N3",
+    "grammar": "ことはない",
+    "meaning": "there is no need to; (something) never happens; there is no possibility that ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0052",
+    "level": "N3",
+    "grammar": "ことは～が",
+    "meaning": "although; but ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0053",
+    "level": "N3",
+    "grammar": "くらい / ぐらい",
+    "meaning": "approximately; about; around; to the extent ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0054",
+    "level": "N3",
+    "grammar": "くせに",
+    "meaning": "and yet; though; in spite of; despite ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0055",
+    "level": "N3",
+    "grammar": "まるで",
+    "meaning": "as if; as though; just like ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0056",
+    "level": "N3",
+    "grammar": "まさか",
+    "meaning": "there's no way; that's impossible; you must be joking",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0057",
+    "level": "N3",
+    "grammar": "めったに～ない",
+    "meaning": "hardly; rarely; seldom",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0058",
+    "level": "N3",
+    "grammar": "も～ば～も",
+    "meaning": "and; also; as well; either/or; neither/nor",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0059",
+    "level": "N3",
+    "grammar": "もしかしたら",
+    "meaning": "perhaps; maybe; perchance; by any chance ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0060",
+    "level": "N3",
+    "grammar": "もしも〜たら",
+    "meaning": "if; in the case; supposing ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0061",
+    "level": "N3",
+    "grammar": "向け（むけ）",
+    "meaning": "intended for; aimed at ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0062",
+    "level": "N3",
+    "grammar": "向き（むき）",
+    "meaning": "suitable for ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0063",
+    "level": "N3",
+    "grammar": "むしろ",
+    "meaning": "rather; instead; better ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0064",
+    "level": "N3",
+    "grammar": "ながらも",
+    "meaning": "but; although; despite ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0065",
+    "level": "N3",
+    "grammar": "ないことはない",
+    "meaning": "can do; is not impossible to ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0066",
+    "level": "N3",
+    "grammar": "ないと",
+    "meaning": "must do; unless/if you don't ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0067",
+    "level": "N3",
+    "grammar": "なかなか",
+    "meaning": "very; quite; pretty; rather; just not ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0068",
+    "level": "N3",
+    "grammar": "なんか / なんて / など",
+    "meaning": "give examples; show modesty; make light of ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0069",
+    "level": "N3",
+    "grammar": "直す（なおす）",
+    "meaning": "to do something again; to do over",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0070",
+    "level": "N3",
+    "grammar": "なるべく",
+    "meaning": "as much as possible",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0071",
+    "level": "N3",
+    "grammar": "なぜなら",
+    "meaning": "because; the reason is; if you want to know why",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0072",
+    "level": "N3",
+    "grammar": "んだって",
+    "meaning": "I hear that; heard that ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0073",
+    "level": "N3",
+    "grammar": "に違いない（にちがいない）",
+    "meaning": "I’m sure/ certain; no doubt that ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0074",
+    "level": "N3",
+    "grammar": "に反して（にはんして）",
+    "meaning": "against; contrary to; in contrast to ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0075",
+    "level": "N3",
+    "grammar": "にかけて",
+    "meaning": "over (a period); through; concerning; regarding ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0076",
+    "level": "N3",
+    "grammar": "に関する / に関して（にかんする / にかんして）",
+    "meaning": "about; regarding; related to ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0077",
+    "level": "N3",
+    "grammar": "にかわって / にかわり",
+    "meaning": "instead of; replacing; on behalf of ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0078",
+    "level": "N3",
+    "grammar": "に比べて（にくらべて）",
+    "meaning": "compared to; in comparison to ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0079",
+    "level": "N3",
+    "grammar": "に慣れる（になれる）",
+    "meaning": "to be used to something",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0080",
+    "level": "N3",
+    "grammar": "において / における",
+    "meaning": "in; at (place); regarding; as for; in relation to ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0081",
+    "level": "N3",
+    "grammar": "にしたがって",
+    "meaning": "as; therefore; in accordance with; according to; consequently ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0082",
+    "level": "N3",
+    "grammar": "にしても",
+    "meaning": "even if; even though; regardless of ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0083",
+    "level": "N3",
+    "grammar": "にしては",
+    "meaning": "for; considering it’s (something or someone)",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0084",
+    "level": "N3",
+    "grammar": "に対して（にたいして）",
+    "meaning": "towards; against; regarding; in contrast with ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0085",
+    "level": "N3",
+    "grammar": "にとって",
+    "meaning": "to; for; concerning; as far as ... is concerned; regarding ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0086",
+    "level": "N3",
+    "grammar": "について",
+    "meaning": "concerning; regarding; about; on ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0087",
+    "level": "N3",
+    "grammar": "につれて",
+    "meaning": "as; in proportion to; with; as… then ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0088",
+    "level": "N3",
+    "grammar": "には",
+    "meaning": "for the purpose of; in order to ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0089",
+    "level": "N3",
+    "grammar": "によると /によれば",
+    "meaning": "according to ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0090",
+    "level": "N3",
+    "grammar": "によって / による",
+    "meaning": "by means of; due to; owing to; because of ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0091",
+    "level": "N3",
+    "grammar": "のでしょうか",
+    "meaning": "ask a question in a polite way",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0092",
+    "level": "N3",
+    "grammar": "を中心に（をちゅうしんに）",
+    "meaning": "focused on; centered on",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0093",
+    "level": "N3",
+    "grammar": "をはじめ",
+    "meaning": "for example; starting with ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0094",
+    "level": "N3",
+    "grammar": "を込めて（をこめて）",
+    "meaning": "filled with; full of",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0095",
+    "level": "N3",
+    "grammar": "を通じて / を通して（をつうじて / をとおして）",
+    "meaning": "through; via; throughout; by ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0096",
+    "level": "N3",
+    "grammar": "おかげで",
+    "meaning": "thanks to; owing to; because of ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0097",
+    "level": "N3",
+    "grammar": "っぱなし",
+    "meaning": "leaving (something) on; leaving (something) still in use",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0098",
+    "level": "N3",
+    "grammar": "っぽい",
+    "meaning": "seems like; somewhat; -ish; easily does; often does ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0099",
+    "level": "N3",
+    "grammar": "さえ",
+    "meaning": "even; so much as; not even",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0100",
+    "level": "N3",
+    "grammar": "さえ～ば",
+    "meaning": "if only; as long as ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0101",
+    "level": "N3",
+    "grammar": "際に（さいに）",
+    "meaning": "when; at the time of; in the case of ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0102",
+    "level": "N3",
+    "grammar": "最中に（さいちゅうに）",
+    "meaning": "while; during; in the middle of ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0103",
+    "level": "N3",
+    "grammar": "さらに",
+    "meaning": "furthermore; again; more and more ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0104",
+    "level": "N3",
+    "grammar": "さて",
+    "meaning": "conjunction: well; now; then ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0105",
+    "level": "N3",
+    "grammar": "せいで",
+    "meaning": "because of; due to; as a result of ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0106",
+    "level": "N3",
+    "grammar": "せいぜい",
+    "meaning": "at the most; at best; to the utmost",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0107",
+    "level": "N3",
+    "grammar": "しばらく",
+    "meaning": "for a moment; for a while; for the time being",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0108",
+    "level": "N3",
+    "grammar": "しかない",
+    "meaning": "have no choice but ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0109",
+    "level": "N3",
+    "grammar": "そのために",
+    "meaning": "hence; for that reason; because of ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0110",
+    "level": "N3",
+    "grammar": "それとも",
+    "meaning": "or; or else ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0111",
+    "level": "N3",
+    "grammar": "そうもない /そうにない",
+    "meaning": "very unlikely to; showing no signs of ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0112",
+    "level": "N3",
+    "grammar": "すでに",
+    "meaning": "something has already been done/taken place; is already the case",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0113",
+    "level": "N3",
+    "grammar": "すなわち",
+    "meaning": "in other words; namely ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0114",
+    "level": "N3",
+    "grammar": "数量 + は（すうりょう + は）",
+    "meaning": "at least ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0115",
+    "level": "N3",
+    "grammar": "たものだ",
+    "meaning": "used to do; would often do",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0116",
+    "level": "N3",
+    "grammar": "たとたん",
+    "meaning": "as soon as; just as ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0117",
+    "level": "N3",
+    "grammar": "たびに",
+    "meaning": "whenever; every time ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0118",
+    "level": "N3",
+    "grammar": "ために",
+    "meaning": "for; in order to; for the benefit of; because of; as a result of ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0119",
+    "level": "N3",
+    "grammar": "確かに（たしかに）",
+    "meaning": "surely, certainly ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0120",
+    "level": "N3",
+    "grammar": "たて",
+    "meaning": "just done; freshly done; newly done",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0121",
+    "level": "N3",
+    "grammar": "たとえ～ても",
+    "meaning": "even if… is the case",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0122",
+    "level": "N3",
+    "grammar": "例えば（たとえば）",
+    "meaning": "for example; for instance ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0123",
+    "level": "N3",
+    "grammar": "たって",
+    "meaning": "even if; even though; no matter how ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0124",
+    "level": "N3",
+    "grammar": "てばかりいる",
+    "meaning": "only; nothing but ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0125",
+    "level": "N3",
+    "grammar": "てごらん",
+    "meaning": "(please) try to; (please) look",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0126",
+    "level": "N3",
+    "grammar": "てはじめて",
+    "meaning": "not until; only after [x] did I",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0127",
+    "level": "N3",
+    "grammar": "てからでないと",
+    "meaning": "must first do; cannot do without first doing ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0128",
+    "level": "N3",
+    "grammar": "てしょうがない・てしかたがない",
+    "meaning": "can't help but; very; extremely ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0129",
+    "level": "N3",
+    "grammar": "て済む（てすむ）",
+    "meaning": "sufficient by; no problem to; resolve by ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0130",
+    "level": "N3",
+    "grammar": "てはいけないから",
+    "meaning": "in order to not~; to prevent a negative situation",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0131",
+    "level": "N3",
+    "grammar": "ている場合じゃない（ているばあいじゃない）",
+    "meaning": "this is no time to be doing ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0132",
+    "level": "N3",
+    "grammar": "的（てき）",
+    "meaning": "change noun into na-adjective or adverb",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0133",
+    "level": "N3",
+    "grammar": "ても始まらない（てもはじまらない）",
+    "meaning": "even if you... it’s no use; there is no point to ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0134",
+    "level": "N3",
+    "grammar": "ても構わない（てもかまわない）",
+    "meaning": "it doesn't matter if ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0135",
+    "level": "N3",
+    "grammar": "てもしょうがない / てもしかたがない",
+    "meaning": "there's no point to~; it's no use to~; it cannot be helped",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0136",
+    "level": "N3",
+    "grammar": "と言えば（といえば）",
+    "meaning": "speaking of; when you talk of; when you say; if it were the case that ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0137",
+    "level": "N3",
+    "grammar": "といい / たらいい",
+    "meaning": "it would be nice if; should; I hope ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0138",
+    "level": "N3",
+    "grammar": "といっても",
+    "meaning": "although I say; although one might say ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0139",
+    "level": "N3",
+    "grammar": "ということだ",
+    "meaning": "I heard; it means that; in other words ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0140",
+    "level": "N3",
+    "grammar": "というのは",
+    "meaning": "this means; the meaning of … is; because; that is to say ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0141",
+    "level": "N3",
+    "grammar": "と言うと（というと）",
+    "meaning": "speaking of; when you talk of; when you say ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0142",
+    "level": "N3",
+    "grammar": "というより",
+    "meaning": "rather than ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0143",
+    "level": "N3",
+    "grammar": "とみえる / とみえて",
+    "meaning": "it seems that ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0144",
+    "level": "N3",
+    "grammar": "とすれば・としたら・とすると",
+    "meaning": "in the case of~; assuming~; if A then B",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0145",
+    "level": "N3",
+    "grammar": "と共に（とともに）",
+    "meaning": "together with; at the same time as; as well as ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0146",
+    "level": "N3",
+    "grammar": "途中で/途中に（とちゅうで/とちゅうに）",
+    "meaning": "on the way; in the middle of ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0147",
+    "level": "N3",
+    "grammar": "ところで",
+    "meaning": "by the way ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0148",
+    "level": "N3",
+    "grammar": "ところが",
+    "meaning": "even so; however; even though ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0149",
+    "level": "N3",
+    "grammar": "とおりに",
+    "meaning": "in the same way as; in the way; as ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0150",
+    "level": "N3",
+    "grammar": "通す（とおす）",
+    "meaning": "to do until the end; to continually do; through ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0151",
+    "level": "N3",
+    "grammar": "として",
+    "meaning": "as; in the role of ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0152",
+    "level": "N3",
+    "grammar": "とても～ない",
+    "meaning": "cannot possibly be; hardly ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0153",
+    "level": "N3",
+    "grammar": "とは限らない（とはかぎらない）",
+    "meaning": "not necessarily so; is not always true",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0154",
+    "level": "N3",
+    "grammar": "つい",
+    "meaning": "accidentally; unintentionally; by mistake",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0155",
+    "level": "N3",
+    "grammar": "ついに",
+    "meaning": "finally; at last; in the end ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0156",
+    "level": "N3",
+    "grammar": "ついでに",
+    "meaning": "while, incidentally, at the same time, on the way ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0157",
+    "level": "N3",
+    "grammar": "つまり",
+    "meaning": "in other words; in summary; in short ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0158",
+    "level": "N3",
+    "grammar": "つもりだった",
+    "meaning": "I thought I~; I believe I~; was planning to~; was intending to ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0159",
+    "level": "N3",
+    "grammar": "つもりで",
+    "meaning": "with the intention of doing ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0160",
+    "level": "N3",
+    "grammar": "うちに",
+    "meaning": "while; before ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0161",
+    "level": "N3",
+    "grammar": "上で（うえで）",
+    "meaning": "upon; after; when; for; in order to",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0162",
+    "level": "N3",
+    "grammar": "上に（うえに）",
+    "meaning": "as well; besides; in addition to; not only… but also ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0163",
+    "level": "N3",
+    "grammar": "は別として（はべつとして）",
+    "meaning": "aside from; apart from; except for; whether or not ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0164",
+    "level": "N3",
+    "grammar": "はもちろん",
+    "meaning": "not to mention; not only ... but also ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0165",
+    "level": "N3",
+    "grammar": "は～で有名（は～でゆうめい）",
+    "meaning": "famous for ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0166",
+    "level": "N3",
+    "grammar": "わけだ",
+    "meaning": "for that reason; no wonder; as you’d expect; the fact is; so you mean ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0167",
+    "level": "N3",
+    "grammar": "わけではない",
+    "meaning": "it doesn’t mean that; it is not the case that; I don’t mean that; it is not true that ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0168",
+    "level": "N3",
+    "grammar": "わけがない",
+    "meaning": "there is no way that; it is impossible to ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0169",
+    "level": "N3",
+    "grammar": "わけにはいかない",
+    "meaning": "must not; cannot afford to; must, have no choice but to ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0170",
+    "level": "N3",
+    "grammar": "割に（わりに）",
+    "meaning": "considering ~; for ~; despite ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0171",
+    "level": "N3",
+    "grammar": "わざと",
+    "meaning": "on purpose; intentionally ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0172",
+    "level": "N3",
+    "grammar": "わざわざ",
+    "meaning": "to go to the trouble of; to go out of one's way to ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0173",
+    "level": "N3",
+    "grammar": "よりも",
+    "meaning": "in comparison to; rather than; more than ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0174",
+    "level": "N3",
+    "grammar": "ようがない",
+    "meaning": "there is no way to; it’s impossible to ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0175",
+    "level": "N3",
+    "grammar": "ような気がする（ようなきがする）",
+    "meaning": "have a feeling that; feels like; seems like; think that ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0176",
+    "level": "N3",
+    "grammar": "ように",
+    "meaning": "in order to, so that ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0177",
+    "level": "N3",
+    "grammar": "ように見える（ようにみえる）",
+    "meaning": "to look; to seem; to appear ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0178",
+    "level": "N3",
+    "grammar": "ようとしない",
+    "meaning": "not try to; not make an effort to ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0179",
+    "level": "N3",
+    "grammar": "ようとする",
+    "meaning": "try to; attempt to; be about to ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0180",
+    "level": "N3",
+    "grammar": "ずに",
+    "meaning": "without doing ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0181",
+    "level": "N3",
+    "grammar": "ずにはいられない",
+    "meaning": "can’t help but feel; can’t help but do; must do ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n3_grammar_0182",
+    "level": "N3",
+    "grammar": "ずつ",
+    "meaning": "apiece; each; at a time",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
   }
 ]

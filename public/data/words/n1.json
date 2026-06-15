@@ -2,37 +2,154 @@
   {
     "id": "n1_word_0001",
     "level": "N1",
-    "word": "緻密",
-    "kana": "ちみつ",
-    "meaning": "细致，缜密",
-    "example": "緻密な計画が必要です。",
-    "example_cn": "需要缜密的计划。"
+    "word": "明くる",
+    "kana": "あくる",
+    "meaning": "next (day, morning, etc.); following",
+    "example": "",
+    "example_cn": ""
   },
   {
     "id": "n1_word_0002",
     "level": "N1",
-    "word": "覆す",
-    "kana": "くつがえす",
-    "meaning": "推翻，颠覆",
-    "example": "判決を覆すのは難しい。",
-    "example_cn": "推翻判决很难。"
+    "word": "読者",
+    "kana": "どくしゃ",
+    "meaning": "reader",
+    "example": "",
+    "example_cn": ""
   },
   {
     "id": "n1_word_0003",
     "level": "N1",
-    "word": "円滑",
-    "kana": "えんかつ",
-    "meaning": "顺利，圆满",
-    "example": "会議は円滑に進みました。",
-    "example_cn": "会议顺利进行。"
+    "word": "本の",
+    "kana": "ほんの",
+    "meaning": "mere; only; just; slight",
+    "example": "",
+    "example_cn": ""
   },
   {
     "id": "n1_word_0004",
     "level": "N1",
-    "word": "阻む",
-    "kana": "はばむ",
-    "meaning": "阻止，妨碍",
-    "example": "強風が前進を阻みました。",
-    "example_cn": "强风阻碍了前进。"
+    "word": "実の",
+    "kana": "じつの",
+    "meaning": "true; real; blood-related; biological (father, etc.)",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n1_word_0005",
+    "level": "N1",
+    "word": "聞き取り",
+    "kana": "ききとり",
+    "meaning": "listening comprehension; hearing what others say",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n1_word_0006",
+    "level": "N1",
+    "word": "購買",
+    "kana": "こうばい",
+    "meaning": "procurement; purchase; buying",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n1_word_0007",
+    "level": "N1",
+    "word": "購読",
+    "kana": "こうどく",
+    "meaning": "buying and reading (book, magazine, etc.); subscribing (newspaper)",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n1_word_0008",
+    "level": "N1",
+    "word": "購入",
+    "kana": "こうにゅう",
+    "meaning": "purchase; buy",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n1_word_0009",
+    "level": "N1",
+    "word": "小売",
+    "kana": "こうり",
+    "meaning": "retail",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n1_word_0010",
+    "level": "N1",
+    "word": "前売り",
+    "kana": "まえうり",
+    "meaning": "advance sale; booking",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n1_word_0011",
+    "level": "N1",
+    "word": "主なる",
+    "kana": "おもなる",
+    "meaning": "main; principal; important",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n1_word_0012",
+    "level": "N1",
+    "word": "新築",
+    "kana": "しんちく",
+    "meaning": "new building; new construction",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n1_word_0013",
+    "level": "N1",
+    "word": "新人",
+    "kana": "しんじん",
+    "meaning": "new face; newcomer; rookie; fresh recruit",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n1_word_0014",
+    "level": "N1",
+    "word": "新婚",
+    "kana": "しんこん",
+    "meaning": "newly-wed; newly married",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n1_word_0015",
+    "level": "N1",
+    "word": "とんだ",
+    "kana": "とんだ",
+    "meaning": "unthinkable; unimaginable; very",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n1_word_0016",
+    "level": "N1",
+    "word": "売り出し",
+    "kana": "うりだし",
+    "meaning": "(bargain) sale",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n1_word_0017",
+    "level": "N1",
+    "word": "売り出す",
+    "kana": "うりだす",
+    "meaning": "to put on the market; to put on sale; to begin selling",
+    "example": "",
+    "example_cn": ""
   }
 ]

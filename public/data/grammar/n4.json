@@ -2,21 +2,1301 @@
   {
     "id": "n4_grammar_0001",
     "level": "N4",
-    "grammar": "ことがある",
-    "meaning": "有时会……",
-    "usage": "动词辞书形 + ことがある",
-    "example": "週末に映画を見ることがあります。",
-    "example_cn": "周末有时会看电影。",
-    "note": "表示偶尔发生。"
+    "grammar": "間（あいだ）",
+    "meaning": "while; during; between ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
   },
   {
     "id": "n4_grammar_0002",
     "level": "N4",
+    "grammar": "間に（あいだに）",
+    "meaning": "while; during~ something happened",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0003",
+    "level": "N4",
+    "grammar": "あまり～ない",
+    "meaning": "not very, not much ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0004",
+    "level": "N4",
+    "grammar": "後で（あとで）",
+    "meaning": "after~; later",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0005",
+    "level": "N4",
+    "grammar": "ば",
+    "meaning": "conditional form; If [A] then [B]",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0006",
+    "level": "N4",
+    "grammar": "場合は（ばあいは）",
+    "meaning": "in the event of; in the case that ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0007",
+    "level": "N4",
+    "grammar": "ばかり",
+    "meaning": "only; nothing but ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0008",
+    "level": "N4",
+    "grammar": "だけで",
+    "meaning": "just by; just by doing",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0009",
+    "level": "N4",
+    "grammar": "出す（だす）",
+    "meaning": "to begin to; to start to; to burst into; ... out (e.g. to jump out, to carry out)",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0010",
+    "level": "N4",
+    "grammar": "でございます",
+    "meaning": "to be (honorific)",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0011",
+    "level": "N4",
+    "grammar": "でも",
+    "meaning": "... or something; how about~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0012",
+    "level": "N4",
+    "grammar": "ではないか",
+    "meaning": "right?; isn't it?",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0013",
+    "level": "N4",
+    "grammar": "が必要（がひつよう）",
+    "meaning": "need; necessary",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0014",
+    "level": "N4",
+    "grammar": "がする",
+    "meaning": "to smell; hear; taste",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0015",
+    "level": "N4",
+    "grammar": "がり",
+    "meaning": "personality (someone tends to; has a tendency to; has a sensitivity to ~)",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0016",
+    "level": "N4",
+    "grammar": "がる / がっている",
+    "meaning": "to show signs of; to appear; to feel, to think ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0017",
+    "level": "N4",
+    "grammar": "ございます",
+    "meaning": "to be, to exist (the polite form of いる/ある)",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0018",
+    "level": "N4",
+    "grammar": "始める（はじめる）",
+    "meaning": "to start; to begin to ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0019",
+    "level": "N4",
+    "grammar": "はずだ",
+    "meaning": "it must be; it should be (expectation)",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0020",
+    "level": "N4",
+    "grammar": "はずがない",
+    "meaning": "cannot be (impossible)",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0021",
+    "level": "N4",
+    "grammar": "必要がある（ひつようがある）",
+    "meaning": "need to; it is necessary to",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0022",
+    "level": "N4",
+    "grammar": "意向形 （いこうけい）",
+    "meaning": "volitional form; let's do ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0023",
+    "level": "N4",
+    "grammar": "いらっしゃる",
+    "meaning": "to be; to come; to go (polite version)",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0024",
+    "level": "N4",
+    "grammar": "いたします",
+    "meaning": "to do (polite form of する)",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0025",
+    "level": "N4",
+    "grammar": "じゃないか",
+    "meaning": "right? isn't it? let's~; confirmation",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0026",
+    "level": "N4",
+    "grammar": "かどうか",
+    "meaning": "whether or not ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0027",
+    "level": "N4",
+    "grammar": "かしら",
+    "meaning": "I wonder (feminine)",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0028",
+    "level": "N4",
+    "grammar": "かい",
+    "meaning": "turns a sentence into a yes/no question",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0029",
+    "level": "N4",
+    "grammar": "かもしれない",
+    "meaning": "might; perhaps; indicates possibility",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0030",
+    "level": "N4",
+    "grammar": "かな",
+    "meaning": "I wonder; should I?",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0031",
+    "level": "N4",
+    "grammar": "から作る（からつくる）",
+    "meaning": "made from; made with",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0032",
+    "level": "N4",
+    "grammar": "きっと",
+    "meaning": "surely; undoubtedly; almost certainly; most likely",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0033",
+    "level": "N4",
+    "grammar": "頃（ころ / ごろ）",
+    "meaning": "around; about; when",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0034",
+    "level": "N4",
+    "grammar": "こと",
+    "meaning": "Verb nominalizer",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0035",
+    "level": "N4",
+    "grammar": "ことがある",
+    "meaning": "there are times when",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0036",
+    "level": "N4",
+    "grammar": "ことができる",
+    "meaning": "can; able to",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0037",
+    "level": "N4",
+    "grammar": "ことになる",
+    "meaning": "It has been decided that..; it turns out that..",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0038",
+    "level": "N4",
+    "grammar": "ことにする",
+    "meaning": "to decide on",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0039",
+    "level": "N4",
+    "grammar": "くする",
+    "meaning": "to make something ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0040",
+    "level": "N4",
+    "grammar": "急に（きゅうに）",
+    "meaning": "quickly; immediately; hastily; suddenly; abruptly; unexpectedly ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0041",
+    "level": "N4",
+    "grammar": "までに",
+    "meaning": "by; by the time; indicates time limit",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0042",
+    "level": "N4",
+    "grammar": "まま",
+    "meaning": "as it is; current state; without changing",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0043",
+    "level": "N4",
+    "grammar": "または",
+    "meaning": "both; or; otherwise; choice between [A] or [B]",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0044",
+    "level": "N4",
+    "grammar": "みたいだ",
+    "meaning": "like; similar to; resembling ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0045",
+    "level": "N4",
+    "grammar": "みたいな",
+    "meaning": "like, similar to ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0046",
+    "level": "N4",
+    "grammar": "みたいに",
+    "meaning": "like; similar to ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0047",
+    "level": "N4",
+    "grammar": "も",
+    "meaning": "as many as; as much as; up to; nearly ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0048",
+    "level": "N4",
+    "grammar": "な",
+    "meaning": "don’t ~ (order somebody to not do something)",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0049",
+    "level": "N4",
+    "grammar": "など",
+    "meaning": "such as; things like ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0050",
+    "level": "N4",
+    "grammar": "ながら",
+    "meaning": "while; during; as; simultaneously",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0051",
+    "level": "N4",
+    "grammar": "なかなか～ない",
+    "meaning": "not easy to; struggling to; not able to ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0052",
+    "level": "N4",
+    "grammar": "なければいけない",
+    "meaning": "must do something; have to do something",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0053",
+    "level": "N4",
+    "grammar": "なければならない",
+    "meaning": "must do something; have to do something",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0054",
+    "level": "N4",
+    "grammar": "なら",
+    "meaning": "if; in the case that ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0055",
+    "level": "N4",
+    "grammar": "なさい",
+    "meaning": "do this (soft/firm command)",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0056",
+    "level": "N4",
+    "grammar": "なさる",
+    "meaning": "to do (honorific)",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0057",
+    "level": "N4",
+    "grammar": "に気がつく（にきがつく）",
+    "meaning": "to notice; to realize",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0058",
+    "level": "N4",
+    "grammar": "に見える（にみえる）",
+    "meaning": "to look; to seem; to appear",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0059",
+    "level": "N4",
+    "grammar": "にする",
+    "meaning": "to make something ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0060",
+    "level": "N4",
+    "grammar": "にくい",
+    "meaning": "difficult to do ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0061",
+    "level": "N4",
+    "grammar": "の中で（のなかで）",
+    "meaning": "in; among ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0062",
+    "level": "N4",
+    "grammar": "のに",
+    "meaning": "although, in spite of, even though ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0063",
+    "level": "N4",
+    "grammar": "のは〜だ",
+    "meaning": "[A] is [B]; the reason for [A] is [B]",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0064",
+    "level": "N4",
+    "grammar": "お～ください",
+    "meaning": "please do ~ (honorific)",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0065",
+    "level": "N4",
+    "grammar": "お～になる",
+    "meaning": "to do (honorific)",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0066",
+    "level": "N4",
+    "grammar": "おきに",
+    "meaning": "repeated at intervals, every ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0067",
+    "level": "N4",
+    "grammar": "終わる（おわる）",
+    "meaning": "to finish; to end~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0068",
+    "level": "N4",
+    "grammar": "られる",
+    "meaning": "potential form; ability or inability to do something",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0069",
+    "level": "N4",
+    "grammar": "らしい",
+    "meaning": "it seems like; I heard; apparently ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0070",
+    "level": "N4",
+    "grammar": "さ",
+    "meaning": "-ness ; nominalizer for adjective",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0071",
+    "level": "N4",
+    "grammar": "さっき",
+    "meaning": "some time ago; just now",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0072",
+    "level": "N4",
+    "grammar": "させられる",
+    "meaning": "causative-passive; to be made to do something",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0073",
+    "level": "N4",
+    "grammar": "させる",
+    "meaning": "causative form; to make/let somebody do something",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0074",
+    "level": "N4",
+    "grammar": "させてください",
+    "meaning": "please let me do",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0075",
+    "level": "N4",
+    "grammar": "さすが",
+    "meaning": "as one would expect; as is to be expected; even ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0076",
+    "level": "N4",
+    "grammar": "し",
+    "meaning": "and; and what’s more ~ (emphasis)",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0077",
+    "level": "N4",
+    "grammar": "そんなに",
+    "meaning": "so much; so; like that",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0078",
+    "level": "N4",
+    "grammar": "それでも",
+    "meaning": "but still; and yet; even so ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0079",
+    "level": "N4",
+    "grammar": "それに",
+    "meaning": "besides; in addition; also; moreover ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0080",
+    "level": "N4",
+    "grammar": "そうだ",
+    "meaning": "I heard that; it is said that ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0081",
+    "level": "N4",
+    "grammar": "そうに / そうな",
+    "meaning": "seems like; looks like ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0082",
+    "level": "N4",
+    "grammar": "たばかり",
+    "meaning": "just finished; something just occurred",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0083",
+    "level": "N4",
+    "grammar": "たところ",
+    "meaning": "just finished doing, was just doing",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0084",
+    "level": "N4",
+    "grammar": "他動詞 & 自動詞（たどうし & じどうし）",
+    "meaning": "Transitive & Intransitive Verbs",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0085",
+    "level": "N4",
+    "grammar": "たがる",
+    "meaning": "wants to do ~ (third person)",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0086",
+    "level": "N4",
+    "grammar": "たら",
+    "meaning": "if; after; when ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0087",
+    "level": "N4",
+    "grammar": "たらどう",
+    "meaning": "why don't you; how about ~ (used to give advice)",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0088",
+    "level": "N4",
+    "grammar": "たらいいですか",
+    "meaning": "what should I do?; speaker seeking instructions from listener",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0089",
+    "level": "N4",
+    "grammar": "て / で",
+    "meaning": "conjunctive particle; so; because of [A], [B]...",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0090",
+    "level": "N4",
+    "grammar": "てあげる",
+    "meaning": "to do for; to do a favor",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0091",
+    "level": "N4",
+    "grammar": "てほしい",
+    "meaning": "I want you to; need you to ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0092",
+    "level": "N4",
+    "grammar": "ていく",
+    "meaning": "to start; to continue; to go on",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0093",
+    "level": "N4",
+    "grammar": "ていた",
+    "meaning": "was doing something (past continuous)",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0094",
+    "level": "N4",
+    "grammar": "ていただけませんか",
+    "meaning": "could you please ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0095",
+    "level": "N4",
+    "grammar": "てくれる",
+    "meaning": "to do a favor; do something for someone",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0096",
+    "level": "N4",
+    "grammar": "てくる",
+    "meaning": "to do… and come back; to become; to continue; to start ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0097",
+    "level": "N4",
+    "grammar": "てみる",
+    "meaning": "try doing",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0098",
+    "level": "N4",
+    "grammar": "てもらう",
+    "meaning": "to get somebody to do something",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0099",
+    "level": "N4",
     "grammar": "ておく",
-    "meaning": "事先做……",
-    "usage": "动词て形 + おく",
-    "example": "資料を読んでおきます。",
-    "example_cn": "事先读好资料。",
-    "note": "强调为之后做准备。"
+    "meaning": "to do something in advance",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0100",
+    "level": "N4",
+    "grammar": "てしまう / ちゃう",
+    "meaning": "to do something by accident, to finish completely",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0101",
+    "level": "N4",
+    "grammar": "てすみません",
+    "meaning": "I’m sorry for",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0102",
+    "level": "N4",
+    "grammar": "てやる",
+    "meaning": "to do for; to do a favor (casual)",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0103",
+    "level": "N4",
+    "grammar": "てよかった",
+    "meaning": "I’m glad that ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0104",
+    "level": "N4",
+    "grammar": "ているところ",
+    "meaning": "in the process of doing",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0105",
+    "level": "N4",
+    "grammar": "ても",
+    "meaning": "even; even if; even though ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0106",
+    "level": "N4",
+    "grammar": "と",
+    "meaning": "whenever [A] happens, [B] also happens",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0107",
+    "level": "N4",
+    "grammar": "と言ってもいい（といってもいい）",
+    "meaning": "you could say; one might say; I'd say ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0108",
+    "level": "N4",
+    "grammar": "という",
+    "meaning": "called; named; that ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0109",
+    "level": "N4",
+    "grammar": "ということ",
+    "meaning": "convert phrase into noun",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0110",
+    "level": "N4",
+    "grammar": "と言われている（といわれている）",
+    "meaning": "it is said that ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0111",
+    "level": "N4",
+    "grammar": "と聞いた（ときいた）",
+    "meaning": "I heard...",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0112",
+    "level": "N4",
+    "grammar": "と思う（とおもう）",
+    "meaning": "to think…; I think…; you think…",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0113",
+    "level": "N4",
+    "grammar": "とか～とか",
+    "meaning": "among other things; such as; like ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0114",
+    "level": "N4",
+    "grammar": "ところ",
+    "meaning": "just about to; on the verge of doing something",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0115",
+    "level": "N4",
+    "grammar": "続ける（つづける）",
+    "meaning": "continue to; keen on ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0116",
+    "level": "N4",
+    "grammar": "って",
+    "meaning": "named; called ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0117",
+    "level": "N4",
+    "grammar": "受身形（うけみけい）",
+    "meaning": "passive form; passive voice",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0118",
+    "level": "N4",
+    "grammar": "は〜が… は",
+    "meaning": "[A] but [B]; however; comparison",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0119",
+    "level": "N4",
+    "grammar": "やすい",
+    "meaning": "easy to; likely to; prone to; have a tendency to ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0120",
+    "level": "N4",
+    "grammar": "やっと",
+    "meaning": "at last; finally; barely; narrowly ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0121",
+    "level": "N4",
+    "grammar": "より",
+    "meaning": "than; rather than; more than ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0122",
+    "level": "N4",
+    "grammar": "予定だ（よていだ）",
+    "meaning": "plan to, intend to",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0123",
+    "level": "N4",
+    "grammar": "ようだ",
+    "meaning": "appears; seems; looks as if ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0124",
+    "level": "N4",
+    "grammar": "ように / ような",
+    "meaning": "like; as; similar to ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0125",
+    "level": "N4",
+    "grammar": "ようになる",
+    "meaning": "to reach the point that; to come to be that; to turn into ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0126",
+    "level": "N4",
+    "grammar": "ようにする",
+    "meaning": "to try to; to make sure that ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0127",
+    "level": "N4",
+    "grammar": "ようと思う（ようとおもう）",
+    "meaning": "thinking of doing; planning to ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0128",
+    "level": "N4",
+    "grammar": "ぜひ",
+    "meaning": "by all means; certainly; definitely ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0129",
+    "level": "N4",
+    "grammar": "全然～ない（ぜんぜん～ない）",
+    "meaning": "(not) at all",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n4_grammar_0130",
+    "level": "N4",
+    "grammar": "づらい",
+    "meaning": "difficult to do ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
   }
 ]

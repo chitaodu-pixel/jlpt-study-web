@@ -2,21 +2,841 @@
   {
     "id": "n5_grammar_0001",
     "level": "N5",
-    "grammar": "です",
-    "meaning": "是……",
-    "usage": "名词 + です",
-    "example": "私は学生です。",
-    "example_cn": "我是学生。",
-    "note": "礼貌判断句。"
+    "grammar": "ちゃいけない・じゃいけない",
+    "meaning": "must not do (spoken Japanese)",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
   },
   {
     "id": "n5_grammar_0002",
     "level": "N5",
+    "grammar": "だ / です",
+    "meaning": "to be (am, is, are, were, used to)",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0003",
+    "level": "N5",
+    "grammar": "だけ",
+    "meaning": "only; just; as much as ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0004",
+    "level": "N5",
+    "grammar": "だろう",
+    "meaning": "I think; it seems; probably; right?",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0005",
+    "level": "N5",
+    "grammar": "で",
+    "meaning": "in; at; on; by; with; via ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0006",
+    "level": "N5",
+    "grammar": "でも",
+    "meaning": "but; however; though ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0007",
+    "level": "N5",
+    "grammar": "でしょう",
+    "meaning": "I think; it seems; probably; right?",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0008",
+    "level": "N5",
+    "grammar": "どんな",
+    "meaning": "what kind of; what sort of",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0009",
+    "level": "N5",
+    "grammar": "どうして",
+    "meaning": "why; for what reason; how",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0010",
+    "level": "N5",
+    "grammar": "どうやって",
+    "meaning": "how; in what way; by what means",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0011",
+    "level": "N5",
+    "grammar": "が",
+    "meaning": "subject marker; however; but ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0012",
+    "level": "N5",
+    "grammar": "があります",
+    "meaning": "there is; is (non-living things)",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0013",
+    "level": "N5",
+    "grammar": "がほしい",
+    "meaning": "to want something",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0014",
+    "level": "N5",
+    "grammar": "がいます",
+    "meaning": "there is; to be; is (living things)",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0015",
+    "level": "N5",
+    "grammar": "ほうがいい",
+    "meaning": "had better; it'd be better to; should ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0016",
+    "level": "N5",
+    "grammar": "い-adjectives",
+    "meaning": "i-adjectives",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0017",
+    "level": "N5",
+    "grammar": "一番（いちばん）",
+    "meaning": "the most; the best",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0018",
+    "level": "N5",
+    "grammar": "一緒に（いっしょに）",
+    "meaning": "together",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0019",
+    "level": "N5",
+    "grammar": "いつも",
+    "meaning": "always; usually; habitually",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0020",
+    "level": "N5",
+    "grammar": "じゃない・ではない",
+    "meaning": "to not be (am not; is not; are not)",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0021",
+    "level": "N5",
+    "grammar": "か",
+    "meaning": "question particle",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0022",
+    "level": "N5",
+    "grammar": "か～か",
+    "meaning": "or",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0023",
+    "level": "N5",
+    "grammar": "から",
+    "meaning": "because; since; from",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0024",
+    "level": "N5",
+    "grammar": "方（かた）",
+    "meaning": "the way of doing something; how to do ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0025",
+    "level": "N5",
+    "grammar": "けど",
+    "meaning": "but; however; although ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0026",
+    "level": "N5",
+    "grammar": "けれども",
+    "meaning": "but; however; although ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0027",
+    "level": "N5",
+    "grammar": "まだ",
+    "meaning": "still; not yet",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0028",
+    "level": "N5",
+    "grammar": "まだ～ていません",
+    "meaning": "have not yet ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0029",
+    "level": "N5",
+    "grammar": "まで",
+    "meaning": "until; as far as; to (an extent); even ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0030",
+    "level": "N5",
+    "grammar": "前に（まえに）",
+    "meaning": "before; in front of ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0031",
+    "level": "N5",
+    "grammar": "ませんか",
+    "meaning": "would you; do you want to; shall we ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0032",
+    "level": "N5",
+    "grammar": "ましょう",
+    "meaning": "let's ~; shall we ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0033",
+    "level": "N5",
+    "grammar": "ましょうか",
+    "meaning": "shall I ~; used to offer help to the listener",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0034",
+    "level": "N5",
+    "grammar": "も",
+    "meaning": "too; also; as well",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0035",
+    "level": "N5",
+    "grammar": "もう",
+    "meaning": "already; anymore; again; other",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0036",
+    "level": "N5",
+    "grammar": "な-adjectives",
+    "meaning": "na-adjectives",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0037",
+    "level": "N5",
+    "grammar": "なあ",
+    "meaning": "sentence ending particle; confirmation; admiration, etc",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0038",
+    "level": "N5",
+    "grammar": "ないで",
+    "meaning": "without doing ~; to do [B] without doing [A]",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0039",
+    "level": "N5",
+    "grammar": "ないでください",
+    "meaning": "please don't do ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0040",
+    "level": "N5",
+    "grammar": "ないといけない",
+    "meaning": "must do; have an obligation to do ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0041",
+    "level": "N5",
+    "grammar": "なくてもいい",
+    "meaning": "don't have to",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0042",
+    "level": "N5",
+    "grammar": "なくちゃ",
+    "meaning": "must do; need to; gotta do ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0043",
+    "level": "N5",
+    "grammar": "なくてはいけない",
+    "meaning": "must do; need to do",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0044",
+    "level": "N5",
+    "grammar": "なくてはならない",
+    "meaning": "must do; need to do ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0045",
+    "level": "N5",
+    "grammar": "なる",
+    "meaning": "to become",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0046",
+    "level": "N5",
+    "grammar": "んです",
+    "meaning": "to explain something; show emphasis",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0047",
+    "level": "N5",
+    "grammar": "ね",
+    "meaning": "isn't it? right? eh?",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0048",
+    "level": "N5",
+    "grammar": "に",
+    "meaning": "destination particle; in; at; on; to",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0049",
+    "level": "N5",
+    "grammar": "に行く（にいく）",
+    "meaning": "go to do ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0050",
+    "level": "N5",
+    "grammar": "にする",
+    "meaning": "to decide on",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0051",
+    "level": "N5",
+    "grammar": "に/へ",
+    "meaning": "to (indicates direction / destination)",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0052",
+    "level": "N5",
+    "grammar": "の",
+    "meaning": "possessive particle",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0053",
+    "level": "N5",
+    "grammar": "のです",
+    "meaning": "to explain something; show emphasis",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0054",
+    "level": "N5",
+    "grammar": "のが下手（のがへた）",
+    "meaning": "to be bad at doing something",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0055",
+    "level": "N5",
+    "grammar": "のが上手（のがじょうず）",
+    "meaning": "to be good at",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0056",
+    "level": "N5",
+    "grammar": "のが好き（のがすき）",
+    "meaning": "to like doing something",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0057",
+    "level": "N5",
+    "grammar": "の中で[A]が一番（のなかで[A]がいちばん）",
+    "meaning": "out of this group, [A] is best",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0058",
+    "level": "N5",
+    "grammar": "ので",
+    "meaning": "because of; given that; since ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0059",
+    "level": "N5",
+    "grammar": "お / ご",
+    "meaning": "polite marker; honorific prefix particle",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0060",
+    "level": "N5",
     "grammar": "を",
-    "meaning": "宾语助词",
-    "usage": "名词 + を + 动词",
-    "example": "水を飲みます。",
-    "example_cn": "喝水。",
-    "note": "标记动作对象。"
+    "meaning": "object marker particle",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0061",
+    "level": "N5",
+    "grammar": "をください",
+    "meaning": "please give me ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0062",
+    "level": "N5",
+    "grammar": "しかし",
+    "meaning": "but; however ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0063",
+    "level": "N5",
+    "grammar": "それから",
+    "meaning": "and; and then; after that; since then",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0064",
+    "level": "N5",
+    "grammar": "そして",
+    "meaning": "and; and then; thus; and now ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0065",
+    "level": "N5",
+    "grammar": "すぎる",
+    "meaning": "too much",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0066",
+    "level": "N5",
+    "grammar": "たことがある",
+    "meaning": "to have done something before",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0067",
+    "level": "N5",
+    "grammar": "たい",
+    "meaning": "want to do something",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0068",
+    "level": "N5",
+    "grammar": "たり～たり",
+    "meaning": "do such things as A and B",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0069",
+    "level": "N5",
+    "grammar": "てある",
+    "meaning": "is/has been done (resulting state)",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0070",
+    "level": "N5",
+    "grammar": "ている",
+    "meaning": "ongoing action or current state",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0071",
+    "level": "N5",
+    "grammar": "てから",
+    "meaning": "after doing ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0072",
+    "level": "N5",
+    "grammar": "てください",
+    "meaning": "please do",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0073",
+    "level": "N5",
+    "grammar": "てはいけない",
+    "meaning": "must not; may not; cannot",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0074",
+    "level": "N5",
+    "grammar": "てもいいです",
+    "meaning": "is OK to ~; is alright to ~; may I ~?",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0075",
+    "level": "N5",
+    "grammar": "と",
+    "meaning": "and; with; as; connecting particle",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0076",
+    "level": "N5",
+    "grammar": "とき",
+    "meaning": "when; at this time",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0077",
+    "level": "N5",
+    "grammar": "とても",
+    "meaning": "very; awfully; exceedingly",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0078",
+    "level": "N5",
+    "grammar": "つもり",
+    "meaning": "plan to ~; intend to ~",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0079",
+    "level": "N5",
+    "grammar": "は",
+    "meaning": "topic marker",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0080",
+    "level": "N5",
+    "grammar": "は〜より・・・です",
+    "meaning": "[Noun-1] is more ~ than [Noun-2]",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0081",
+    "level": "N5",
+    "grammar": "はどうですか",
+    "meaning": "how about; how is",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0082",
+    "level": "N5",
+    "grammar": "や",
+    "meaning": "and; or; connecting particle",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0083",
+    "level": "N5",
+    "grammar": "よ",
+    "meaning": "you know; emphasis (ending particle)",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
+  },
+  {
+    "id": "n5_grammar_0084",
+    "level": "N5",
+    "grammar": "より～ほうが",
+    "meaning": "[2] is more than [1]",
+    "usage": "",
+    "example": "",
+    "example_cn": "",
+    "note": ""
   }
 ]

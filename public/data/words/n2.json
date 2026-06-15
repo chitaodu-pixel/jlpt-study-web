@@ -2,37 +2,892 @@
   {
     "id": "n2_word_0001",
     "level": "N2",
-    "word": "明らか",
-    "kana": "あきらか",
-    "meaning": "明显，清楚",
-    "example": "原因は明らかです。",
-    "example_cn": "原因很明显。"
+    "word": "明け方",
+    "kana": "あけがた",
+    "meaning": "dawn",
+    "example": "",
+    "example_cn": ""
   },
   {
     "id": "n2_word_0002",
     "level": "N2",
-    "word": "維持",
-    "kana": "いじ",
-    "meaning": "维持",
-    "example": "健康を維持することが大切です。",
-    "example_cn": "维持健康很重要。"
+    "word": "青白い",
+    "kana": "あおじろい",
+    "meaning": "pale; bluish-white",
+    "example": "",
+    "example_cn": ""
   },
   {
     "id": "n2_word_0003",
     "level": "N2",
-    "word": "妥当",
-    "kana": "だとう",
-    "meaning": "妥当，合理",
-    "example": "妥当な判断だと思います。",
-    "example_cn": "我认为是合理的判断。"
+    "word": "足跡",
+    "kana": "あしあと",
+    "meaning": "footprints",
+    "example": "",
+    "example_cn": ""
   },
   {
     "id": "n2_word_0004",
     "level": "N2",
-    "word": "省く",
-    "kana": "はぶく",
-    "meaning": "省略，去掉",
-    "example": "詳しい説明は省きます。",
-    "example_cn": "省略详细说明。"
+    "word": "売買",
+    "kana": "ばいばい",
+    "meaning": "trade; buying and selling",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0005",
+    "level": "N2",
+    "word": "売店",
+    "kana": "ばいてん",
+    "meaning": "stand; stall; booth; kiosk; store",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0006",
+    "level": "N2",
+    "word": "募集",
+    "kana": "ぼしゅう",
+    "meaning": "recruitment; invitation; taking applications; solicitation",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0007",
+    "level": "N2",
+    "word": "長男",
+    "kana": "ちょうなん",
+    "meaning": "eldest son; first-born son",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0008",
+    "level": "N2",
+    "word": "楕円",
+    "kana": "だえん",
+    "meaning": "ellipse",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0009",
+    "level": "N2",
+    "word": "大学院",
+    "kana": "だいがくいん",
+    "meaning": "graduate school",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0010",
+    "level": "N2",
+    "word": "出入口",
+    "kana": "でいりぐち",
+    "meaning": "exit and entrance",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0011",
+    "level": "N2",
+    "word": "宴会",
+    "kana": "えんかい",
+    "meaning": "party; banquet; reception; feast; dinner",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0012",
+    "level": "N2",
+    "word": "円周",
+    "kana": "えんしゅう",
+    "meaning": "circumference",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0013",
+    "level": "N2",
+    "word": "遠足",
+    "kana": "えんそく",
+    "meaning": "excursion; outing; trip",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0014",
+    "level": "N2",
+    "word": "父母",
+    "kana": "ふぼ",
+    "meaning": "father and mother; parents",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0015",
+    "level": "N2",
+    "word": "学科",
+    "kana": "がっか",
+    "meaning": "study subject; course of study; department",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0016",
+    "level": "N2",
+    "word": "学会",
+    "kana": "がっかい",
+    "meaning": "scientific society; academic meeting; academic conference",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0017",
+    "level": "N2",
+    "word": "学力",
+    "kana": "がくりょく",
+    "meaning": "scholarly ability; scholarship; knowledge; literary ability",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0018",
+    "level": "N2",
+    "word": "外科",
+    "kana": "げか",
+    "meaning": "surgery; department of surgery",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0019",
+    "level": "N2",
+    "word": "花火",
+    "kana": "はなび",
+    "meaning": "fireworks",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0020",
+    "level": "N2",
+    "word": "半径",
+    "kana": "はんけい",
+    "meaning": "radius",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0021",
+    "level": "N2",
+    "word": "半島",
+    "kana": "はんとう",
+    "meaning": "peninsula",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0022",
+    "level": "N2",
+    "word": "発売",
+    "kana": "はつばい",
+    "meaning": "sale; release (for sale); launch (product)",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0023",
+    "level": "N2",
+    "word": "早口",
+    "kana": "はやぐち",
+    "meaning": "fast-talking; rapid talking",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0024",
+    "level": "N2",
+    "word": "外れる",
+    "kana": "はずれる",
+    "meaning": "to be disconnected; to be off; to miss the mark",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0025",
+    "level": "N2",
+    "word": "閉会",
+    "kana": "へいかい",
+    "meaning": "closure (of a ceremony, event, meeting, etc.)",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0026",
+    "level": "N2",
+    "word": "昼寝",
+    "kana": "ひるね",
+    "meaning": "nap, siesta",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0027",
+    "level": "N2",
+    "word": "意地悪",
+    "kana": "いじわる",
+    "meaning": "malicious; ill-tempered; unkind",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0028",
+    "level": "N2",
+    "word": "移転",
+    "kana": "いてん",
+    "meaning": "moving; relocation; change of address",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0029",
+    "level": "N2",
+    "word": "一旦",
+    "kana": "いったん",
+    "meaning": "once; for a short time; briefly; temporarily",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0030",
+    "level": "N2",
+    "word": "寺院",
+    "kana": "じいん",
+    "meaning": "Buddhist temple; religious building",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0031",
+    "level": "N2",
+    "word": "人文科学",
+    "kana": "じんぶんかがく",
+    "meaning": "humanities; social sciences; liberal arts",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0032",
+    "level": "N2",
+    "word": "自習",
+    "kana": "じしゅう",
+    "meaning": "self-study; teaching oneself",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0033",
+    "level": "N2",
+    "word": "時速",
+    "kana": "じそく",
+    "meaning": "speed (per hour)",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0034",
+    "level": "N2",
+    "word": "実習",
+    "kana": "じっしゅう",
+    "meaning": "practice; training; practical exercise; drill",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0035",
+    "level": "N2",
+    "word": "過半数",
+    "kana": "かはんすう",
+    "meaning": "majority",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0036",
+    "level": "N2",
+    "word": "開会",
+    "kana": "かいかい",
+    "meaning": "opening of a meeting; starting (an event, etc)",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0037",
+    "level": "N2",
+    "word": "会館",
+    "kana": "かいかん",
+    "meaning": "meeting hall; assembly hall",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0038",
+    "level": "N2",
+    "word": "回転",
+    "kana": "かいてん",
+    "meaning": "rotation; revolution; turning",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0039",
+    "level": "N2",
+    "word": "加速",
+    "kana": "かそく",
+    "meaning": "acceleration; speeding up",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0040",
+    "level": "N2",
+    "word": "加速度",
+    "kana": "かそくど",
+    "meaning": "acceleration",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0041",
+    "level": "N2",
+    "word": "見学",
+    "kana": "けんがく",
+    "meaning": "study by observation; field trip; tour; review; inspection",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0042",
+    "level": "N2",
+    "word": "国王",
+    "kana": "こくおう",
+    "meaning": "king; queen; monarch; sovereign",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0043",
+    "level": "N2",
+    "word": "国立",
+    "kana": "こくりつ",
+    "meaning": "national",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0044",
+    "level": "N2",
+    "word": "国籍",
+    "kana": "こくせき",
+    "meaning": "nationality; citizenship",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0045",
+    "level": "N2",
+    "word": "転がる",
+    "kana": "ころがる",
+    "meaning": "to roll; to fall over; to lie down",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0046",
+    "level": "N2",
+    "word": "転がす",
+    "kana": "ころがす",
+    "meaning": "to roll; to turn over",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0047",
+    "level": "N2",
+    "word": "校舎",
+    "kana": "こうしゃ",
+    "meaning": "school building; schoolhouse",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0048",
+    "level": "N2",
+    "word": "校庭",
+    "kana": "こうてい",
+    "meaning": "schoolyard; playground; school grounds; campus",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0049",
+    "level": "N2",
+    "word": "待合室",
+    "kana": "まちあいしつ",
+    "meaning": "waiting room",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0050",
+    "level": "N2",
+    "word": "待ち合わせる",
+    "kana": "まちあわせる",
+    "meaning": "to rendezvous; to meet at a prearranged place and time; to arrange to meet",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0051",
+    "level": "N2",
+    "word": "窓口",
+    "kana": "まどぐち",
+    "meaning": "ticket window; teller window; counter",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0052",
+    "level": "N2",
+    "word": "毎度",
+    "kana": "まいど",
+    "meaning": "each time; always; often; thank you for your continued patronage",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0053",
+    "level": "N2",
+    "word": "真っ青",
+    "kana": "まっさお",
+    "meaning": "deep blue; bright blue; ghastly pale; white as a sheet",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0054",
+    "level": "N2",
+    "word": "真っ白",
+    "kana": "まっしろ",
+    "meaning": "pure white; blank",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0055",
+    "level": "N2",
+    "word": "名刺",
+    "kana": "めいし",
+    "meaning": "business card",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0056",
+    "level": "N2",
+    "word": "店屋",
+    "kana": "みせや",
+    "meaning": "store; shop",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0057",
+    "level": "N2",
+    "word": "木材",
+    "kana": "もくざい",
+    "meaning": "lumber; timber; wood",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0058",
+    "level": "N2",
+    "word": "元々",
+    "kana": "もともと",
+    "meaning": "originally, by nature, from the start",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0059",
+    "level": "N2",
+    "word": "内科",
+    "kana": "ないか",
+    "meaning": "internal medicine",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0060",
+    "level": "N2",
+    "word": "並木",
+    "kana": "なみき",
+    "meaning": "roadside tree; row of trees",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0061",
+    "level": "N2",
+    "word": "入社",
+    "kana": "にゅうしゃ",
+    "meaning": "joining a company",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0062",
+    "level": "N2",
+    "word": "押さえる",
+    "kana": "おさえる",
+    "meaning": "to pin down; to hold down; to press down",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0063",
+    "level": "N2",
+    "word": "理科",
+    "kana": "りか",
+    "meaning": "science (department; course)",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0064",
+    "level": "N2",
+    "word": "領収",
+    "kana": "りょうしゅう",
+    "meaning": "receipt (of money); receiving",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0065",
+    "level": "N2",
+    "word": "再三",
+    "kana": "さいさん",
+    "meaning": "again and again; repeatedly",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0066",
+    "level": "N2",
+    "word": "刺さる",
+    "kana": "ささる",
+    "meaning": "to stick into (with a sharp point); to prick; to get stuck (in);",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0067",
+    "level": "N2",
+    "word": "刺身",
+    "kana": "さしみ",
+    "meaning": "sashimi (raw sliced fish, shellfish or crustaceans)",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0068",
+    "level": "N2",
+    "word": "早速",
+    "kana": "さっそく",
+    "meaning": "at once; immediately; without delay; promptly",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0069",
+    "level": "N2",
+    "word": "刺す",
+    "kana": "さす",
+    "meaning": "to pierce; to stab; to prick; to stick; to thrust; to sting",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0070",
+    "level": "N2",
+    "word": "青少年",
+    "kana": "せいしょうねん",
+    "meaning": "youth; young person",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0071",
+    "level": "N2",
+    "word": "赤道",
+    "kana": "せきどう",
+    "meaning": "equator",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0072",
+    "level": "N2",
+    "word": "社会科学",
+    "kana": "しゃかいかがく",
+    "meaning": "social science",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0073",
+    "level": "N2",
+    "word": "社説",
+    "kana": "しゃせつ",
+    "meaning": "editorial; leading article; leader",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0074",
+    "level": "N2",
+    "word": "司会",
+    "kana": "しかい",
+    "meaning": "master of ceremonies; leading a meeting; presenter; host",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0075",
+    "level": "N2",
+    "word": "新幹線",
+    "kana": "しんかんせん",
+    "meaning": "Japanese bullet train",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0076",
+    "level": "N2",
+    "word": "白髪",
+    "kana": "しらが",
+    "meaning": "white hair; grey hair",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0077",
+    "level": "N2",
+    "word": "自然科学",
+    "kana": "しぜんかがく",
+    "meaning": "natural science",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0078",
+    "level": "N2",
+    "word": "書店",
+    "kana": "しょてん",
+    "meaning": "bookshop; bookstore",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0079",
+    "level": "N2",
+    "word": "商社",
+    "kana": "しょうしゃ",
+    "meaning": "trading company; firm",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0080",
+    "level": "N2",
+    "word": "商店",
+    "kana": "しょうてん",
+    "meaning": "shop; small store; business; firm",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0081",
+    "level": "N2",
+    "word": "集合",
+    "kana": "しゅうごう",
+    "meaning": "gathering; assembly; meeting",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0082",
+    "level": "N2",
+    "word": "習字",
+    "kana": "しゅうじ",
+    "meaning": "calligraphy; penmanship",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0083",
+    "level": "N2",
+    "word": "集会",
+    "kana": "しゅうかい",
+    "meaning": "meeting; assembly; gathering; convention; rally",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0084",
+    "level": "N2",
+    "word": "速力",
+    "kana": "そくりょく",
+    "meaning": "speed",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0085",
+    "level": "N2",
+    "word": "速達",
+    "kana": "そくたつ",
+    "meaning": "express; special delivery",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0086",
+    "level": "N2",
+    "word": "足袋",
+    "kana": "たび",
+    "meaning": "Japanese socks (with split toe)",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0087",
+    "level": "N2",
+    "word": "足る",
+    "kana": "たる",
+    "meaning": "to be sufficient; to be enough; to be worth doing; to be worthy of; to deserve",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0088",
+    "level": "N2",
+    "word": "特売",
+    "kana": "とくばい",
+    "meaning": "special sale",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0089",
+    "level": "N2",
+    "word": "透明",
+    "kana": "とうめい",
+    "meaning": "transparent; clear",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0090",
+    "level": "N2",
+    "word": "東洋",
+    "kana": "とうよう",
+    "meaning": "Orient",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0091",
+    "level": "N2",
+    "word": "売れ行き",
+    "kana": "うれゆき",
+    "meaning": "sales; demand",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0092",
+    "level": "N2",
+    "word": "売上",
+    "kana": "うりあげ",
+    "meaning": "amount sold; sales; proceeds; turnover",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0093",
+    "level": "N2",
+    "word": "売り切れ",
+    "kana": "うりきれ",
+    "meaning": "sold out",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0094",
+    "level": "N2",
+    "word": "売り切れる",
+    "kana": "うりきれる",
+    "meaning": "to be sold out",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0095",
+    "level": "N2",
+    "word": "我が",
+    "kana": "わが",
+    "meaning": "my; our; one's own",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0096",
+    "level": "N2",
+    "word": "洋品店",
+    "kana": "ようひんてん",
+    "meaning": "shop that handles Western-style apparel and accessories",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0097",
+    "level": "N2",
+    "word": "輸血",
+    "kana": "ゆけつ",
+    "meaning": "blood transfusion",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0098",
+    "level": "N2",
+    "word": "輸送",
+    "kana": "ゆそう",
+    "meaning": "transport; transportation",
+    "example": "",
+    "example_cn": ""
+  },
+  {
+    "id": "n2_word_0099",
+    "level": "N2",
+    "word": "材木",
+    "kana": "ざいもく",
+    "meaning": "lumber; timber",
+    "example": "",
+    "example_cn": ""
   }
 ]
