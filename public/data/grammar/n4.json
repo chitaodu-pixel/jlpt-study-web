@@ -5,9 +5,10 @@
     "grammar": "間（あいだ）",
     "meaning": "while; during; between ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "子どもが寝ている間に、夕食を作りました。",
+    "example_cn": "孩子睡觉的时候，我做了晚饭。这里练习“間”，表示“while”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0002",
@@ -15,9 +16,10 @@
     "grammar": "間に（あいだに）",
     "meaning": "while; during~ something happened",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "子どもが寝ている間に、夕食を作りました。",
+    "example_cn": "孩子睡觉的时候，我做了晚饭。这里练习“間に”，表示“while”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0003",
@@ -25,9 +27,10 @@
     "grammar": "あまり～ない",
     "meaning": "not very, not much ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "会社で、「あまりない」を使うと自然に聞こえます。",
+    "example_cn": "在公司，使用“あまりない”会听起来更自然，表示“not very”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0004",
@@ -35,9 +38,10 @@
     "grammar": "後で（あとで）",
     "meaning": "after~; later",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "旅行中に、「後で」を使うと自然に聞こえます。",
+    "example_cn": "旅行中，使用“後で”会听起来更自然，表示“after”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0005",
@@ -45,9 +49,10 @@
     "grammar": "ば",
     "meaning": "conditional form; If [A] then [B]",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "駅で、この表現は「ば」を使って説明できます。",
+    "example_cn": "在车站，这个表达可以用“ば”来说明，意思是“conditional form”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0006",
@@ -55,9 +60,10 @@
     "grammar": "場合は（ばあいは）",
     "meaning": "in the event of; in the case that ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "会社で、先生は「場合は」の使い方を説明しました。",
+    "example_cn": "在公司，老师说明了“場合は”的用法，意思是“in the event of”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0007",
@@ -65,9 +71,10 @@
     "grammar": "ばかり",
     "meaning": "only; nothing but ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "旅行中に、この表現は「ばかり」を使って説明できます。",
+    "example_cn": "旅行中，这个表达可以用“ばかり”来说明，意思是“only”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0008",
@@ -75,9 +82,10 @@
     "grammar": "だけで",
     "meaning": "just by; just by doing",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "旅行中に、先生は「だけで」の使い方を説明しました。",
+    "example_cn": "旅行中，老师说明了“だけで”的用法，意思是“just by”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0009",
@@ -85,9 +93,10 @@
     "grammar": "出す（だす）",
     "meaning": "to begin to; to start to; to burst into; ... out (e.g. to jump out, to carry out)",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "駅で、先生は「出す」の使い方を説明しました。",
+    "example_cn": "在车站，老师说明了“出す”的用法，意思是“to begin to”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0010",
@@ -95,9 +104,10 @@
     "grammar": "でございます",
     "meaning": "to be (honorific)",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "週末は、この表現は「でございます」を使って説明できます。",
+    "example_cn": "周末，这个表达可以用“でございます”来说明，意思是“to be (honorific)”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0011",
@@ -105,9 +115,10 @@
     "grammar": "でも",
     "meaning": "... or something; how about~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "週末は、「でも」を使うと自然に聞こえます。",
+    "example_cn": "周末，使用“でも”会听起来更自然，表示“... or something”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0012",
@@ -115,9 +126,10 @@
     "grammar": "ではないか",
     "meaning": "right?; isn't it?",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "週末は、先生は「ではないか」の使い方を説明しました。",
+    "example_cn": "周末，老师说明了“ではないか”的用法，意思是“right?”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0013",
@@ -125,9 +137,10 @@
     "grammar": "が必要（がひつよう）",
     "meaning": "need; necessary",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "旅行中に、この表現は「が必要」を使って説明できます。",
+    "example_cn": "旅行中，这个表达可以用“が必要”来说明，意思是“need”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0014",
@@ -135,9 +148,10 @@
     "grammar": "がする",
     "meaning": "to smell; hear; taste",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "授業で、先生は「がする」の使い方を説明しました。",
+    "example_cn": "上课时，老师说明了“がする”的用法，意思是“to smell”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0015",
@@ -145,9 +159,10 @@
     "grammar": "がり",
     "meaning": "personality (someone tends to; has a tendency to; has a sensitivity to ~)",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "会社で、「がり」を使うと自然に聞こえます。",
+    "example_cn": "在公司，使用“がり”会听起来更自然，表示“personality (someone tends to”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0016",
@@ -155,9 +170,10 @@
     "grammar": "がる / がっている",
     "meaning": "to show signs of; to appear; to feel, to think ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "授業で、この表現は「がる」を使って説明できます。",
+    "example_cn": "上课时，这个表达可以用“がる”来说明，意思是“to show signs of”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0017",
@@ -165,9 +181,10 @@
     "grammar": "ございます",
     "meaning": "to be, to exist (the polite form of いる/ある)",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "会社で、この表現は「ございます」を使って説明できます。",
+    "example_cn": "在公司，这个表达可以用“ございます”来说明，意思是“to be”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0018",
@@ -175,9 +192,10 @@
     "grammar": "始める（はじめる）",
     "meaning": "to start; to begin to ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "授業で、先生は「始める」の使い方を説明しました。",
+    "example_cn": "上课时，老师说明了“始める”的用法，意思是“to start”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0019",
@@ -185,9 +203,10 @@
     "grammar": "はずだ",
     "meaning": "it must be; it should be (expectation)",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "駅で、「はずだ」を使うと自然に聞こえます。",
+    "example_cn": "在车站，使用“はずだ”会听起来更自然，表示“it must be”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0020",
@@ -195,9 +214,10 @@
     "grammar": "はずがない",
     "meaning": "cannot be (impossible)",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "週末は、「はずがない」を使うと自然に聞こえます。",
+    "example_cn": "周末，使用“はずがない”会听起来更自然，表示“cannot be (impossible)”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0021",
@@ -205,9 +225,10 @@
     "grammar": "必要がある（ひつようがある）",
     "meaning": "need to; it is necessary to",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "旅行中に、この表現は「必要がある」を使って説明できます。",
+    "example_cn": "旅行中，这个表达可以用“必要がある”来说明，意思是“need to”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0022",
@@ -215,9 +236,10 @@
     "grammar": "意向形 （いこうけい）",
     "meaning": "volitional form; let's do ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "旅行中に、この表現は「意向形」を使って説明できます。",
+    "example_cn": "旅行中，这个表达可以用“意向形”来说明，意思是“volitional form”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0023",
@@ -225,9 +247,10 @@
     "grammar": "いらっしゃる",
     "meaning": "to be; to come; to go (polite version)",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "旅行中に、先生は「いらっしゃる」の使い方を説明しました。",
+    "example_cn": "旅行中，老师说明了“いらっしゃる”的用法，意思是“to be”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0024",
@@ -235,9 +258,10 @@
     "grammar": "いたします",
     "meaning": "to do (polite form of する)",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "駅で、先生は「いたします」の使い方を説明しました。",
+    "example_cn": "在车站，老师说明了“いたします”的用法，意思是“to do (polite form of する)”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0025",
@@ -245,9 +269,10 @@
     "grammar": "じゃないか",
     "meaning": "right? isn't it? let's~; confirmation",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "会社で、この表現は「じゃないか」を使って説明できます。",
+    "example_cn": "在公司，这个表达可以用“じゃないか”来说明，意思是“right? isn't it? let's”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0026",
@@ -255,9 +280,10 @@
     "grammar": "かどうか",
     "meaning": "whether or not ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "旅行中に、先生は「かどうか」の使い方を説明しました。",
+    "example_cn": "旅行中，老师说明了“かどうか”的用法，意思是“whether or not”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0027",
@@ -265,9 +291,10 @@
     "grammar": "かしら",
     "meaning": "I wonder (feminine)",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "授業で、この表現は「かしら」を使って説明できます。",
+    "example_cn": "上课时，这个表达可以用“かしら”来说明，意思是“I wonder (feminine)”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0028",
@@ -275,9 +302,10 @@
     "grammar": "かい",
     "meaning": "turns a sentence into a yes/no question",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "会社で、この表現は「かい」を使って説明できます。",
+    "example_cn": "在公司，这个表达可以用“かい”来说明，意思是“turns a sentence into a yes/no question”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0029",
@@ -285,9 +313,10 @@
     "grammar": "かもしれない",
     "meaning": "might; perhaps; indicates possibility",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "午後から雨が降るかもしれません。",
+    "example_cn": "下午可能会下雨。这里练习“かもしれない”，表示“might”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0030",
@@ -295,9 +324,10 @@
     "grammar": "かな",
     "meaning": "I wonder; should I?",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "授業で、「かな」を使うと自然に聞こえます。",
+    "example_cn": "上课时，使用“かな”会听起来更自然，表示“I wonder”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0031",
@@ -305,9 +335,10 @@
     "grammar": "から作る（からつくる）",
     "meaning": "made from; made with",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "電車が遅れたので、少し遅刻しました。",
+    "example_cn": "因为电车晚点了，所以稍微迟到了。这里练习“から作る”，表示“made from”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0032",
@@ -315,9 +346,10 @@
     "grammar": "きっと",
     "meaning": "surely; undoubtedly; almost certainly; most likely",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "会社で、先生は「きっと」の使い方を説明しました。",
+    "example_cn": "在公司，老师说明了“きっと”的用法，意思是“surely”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0033",
@@ -325,9 +357,10 @@
     "grammar": "頃（ころ / ごろ）",
     "meaning": "around; about; when",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "会社で、先生は「頃」の使い方を説明しました。",
+    "example_cn": "在公司，老师说明了“頃”的用法，意思是“around”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0034",
@@ -335,9 +368,10 @@
     "grammar": "こと",
     "meaning": "Verb nominalizer",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "週末は、「こと」を使うと自然に聞こえます。",
+    "example_cn": "周末，使用“こと”会听起来更自然，表示“Verb nominalizer”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0035",
@@ -345,9 +379,10 @@
     "grammar": "ことがある",
     "meaning": "there are times when",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "会社で、この表現は「ことがある」を使って説明できます。",
+    "example_cn": "在公司，这个表达可以用“ことがある”来说明，意思是“there are times when”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0036",
@@ -355,9 +390,10 @@
     "grammar": "ことができる",
     "meaning": "can; able to",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "会社で、この表現は「ことができる」を使って説明できます。",
+    "example_cn": "在公司，这个表达可以用“ことができる”来说明，意思是“can”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0037",
@@ -365,9 +401,10 @@
     "grammar": "ことになる",
     "meaning": "It has been decided that..; it turns out that..",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "週末は、「ことになる」を使うと自然に聞こえます。",
+    "example_cn": "周末，使用“ことになる”会听起来更自然，表示“It has been decided that..”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0038",
@@ -375,9 +412,10 @@
     "grammar": "ことにする",
     "meaning": "to decide on",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "授業で、「ことにする」を使うと自然に聞こえます。",
+    "example_cn": "上课时，使用“ことにする”会听起来更自然，表示“to decide on”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0039",
@@ -385,9 +423,10 @@
     "grammar": "くする",
     "meaning": "to make something ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "旅行中に、この表現は「くする」を使って説明できます。",
+    "example_cn": "旅行中，这个表达可以用“くする”来说明，意思是“to make something”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0040",
@@ -395,9 +434,10 @@
     "grammar": "急に（きゅうに）",
     "meaning": "quickly; immediately; hastily; suddenly; abruptly; unexpectedly ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "会社で、先生は「急に」の使い方を説明しました。",
+    "example_cn": "在公司，老师说明了“急に”的用法，意思是“quickly”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0041",
@@ -405,9 +445,10 @@
     "grammar": "までに",
     "meaning": "by; by the time; indicates time limit",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "授業で、この表現は「までに」を使って説明できます。",
+    "example_cn": "上课时，这个表达可以用“までに”来说明，意思是“by”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0042",
@@ -415,9 +456,10 @@
     "grammar": "まま",
     "meaning": "as it is; current state; without changing",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "会社で、「まま」を使うと自然に聞こえます。",
+    "example_cn": "在公司，使用“まま”会听起来更自然，表示“as it is”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0043",
@@ -425,9 +467,10 @@
     "grammar": "または",
     "meaning": "both; or; otherwise; choice between [A] or [B]",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "会社で、先生は「または」の使い方を説明しました。",
+    "example_cn": "在公司，老师说明了“または”的用法，意思是“both”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0044",
@@ -435,9 +478,10 @@
     "grammar": "みたいだ",
     "meaning": "like; similar to; resembling ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "週末は友達と映画を見に行きたいです。",
+    "example_cn": "周末想和朋友去看电影。这里练习“みたいだ”，表示“like”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0045",
@@ -445,9 +489,10 @@
     "grammar": "みたいな",
     "meaning": "like, similar to ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "週末は友達と映画を見に行きたいです。",
+    "example_cn": "周末想和朋友去看电影。这里练习“みたいな”，表示“like”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0046",
@@ -455,9 +500,10 @@
     "grammar": "みたいに",
     "meaning": "like; similar to ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "週末は友達と映画を見に行きたいです。",
+    "example_cn": "周末想和朋友去看电影。这里练习“みたいに”，表示“like”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0047",
@@ -465,9 +511,10 @@
     "grammar": "も",
     "meaning": "as many as; as much as; up to; nearly ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "週末は、この表現は「も」を使って説明できます。",
+    "example_cn": "周末，这个表达可以用“も”来说明，意思是“as many as”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0048",
@@ -475,9 +522,10 @@
     "grammar": "な",
     "meaning": "don’t ~ (order somebody to not do something)",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "会社で、先生は「な」の使い方を説明しました。",
+    "example_cn": "在公司，老师说明了“な”的用法，意思是“don’t  (order somebody to not do something)”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0049",
@@ -485,9 +533,10 @@
     "grammar": "など",
     "meaning": "such as; things like ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "駅で、「など」を使うと自然に聞こえます。",
+    "example_cn": "在车站，使用“など”会听起来更自然，表示“such as”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0050",
@@ -495,9 +544,10 @@
     "grammar": "ながら",
     "meaning": "while; during; as; simultaneously",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "音楽を聞きながら、部屋を片付けました。",
+    "example_cn": "一边听音乐，一边收拾房间。这里练习“ながら”，表示“while”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0051",
@@ -505,9 +555,10 @@
     "grammar": "なかなか～ない",
     "meaning": "not easy to; struggling to; not able to ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "週末は、「なかなかない」を使うと自然に聞こえます。",
+    "example_cn": "周末，使用“なかなかない”会听起来更自然，表示“not easy to”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0052",
@@ -515,9 +566,10 @@
     "grammar": "なければいけない",
     "meaning": "must do something; have to do something",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "駅で、「なければいけない」を使うと自然に聞こえます。",
+    "example_cn": "在车站，使用“なければいけない”会听起来更自然，表示“must do something”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0053",
@@ -525,9 +577,10 @@
     "grammar": "なければならない",
     "meaning": "must do something; have to do something",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "明日は早いので、夜更かししてはいけません。",
+    "example_cn": "因为明天要早起，所以不能熬夜。这里练习“なければならない”，表示“must do something”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0054",
@@ -535,9 +588,10 @@
     "grammar": "なら",
     "meaning": "if; in the case that ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "会社で、先生は「なら」の使い方を説明しました。",
+    "example_cn": "在公司，老师说明了“なら”的用法，意思是“if”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0055",
@@ -545,9 +599,10 @@
     "grammar": "なさい",
     "meaning": "do this (soft/firm command)",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "週末は、この表現は「なさい」を使って説明できます。",
+    "example_cn": "周末，这个表达可以用“なさい”来说明，意思是“do this (soft/firm command)”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0056",
@@ -555,9 +610,10 @@
     "grammar": "なさる",
     "meaning": "to do (honorific)",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "駅で、この表現は「なさる」を使って説明できます。",
+    "example_cn": "在车站，这个表达可以用“なさる”来说明，意思是“to do (honorific)”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0057",
@@ -565,9 +621,10 @@
     "grammar": "に気がつく（にきがつく）",
     "meaning": "to notice; to realize",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "授業で、「に気がつく」を使うと自然に聞こえます。",
+    "example_cn": "上课时，使用“に気がつく”会听起来更自然，表示“to notice”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0058",
@@ -575,9 +632,10 @@
     "grammar": "に見える（にみえる）",
     "meaning": "to look; to seem; to appear",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "駅で、先生は「に見える」の使い方を説明しました。",
+    "example_cn": "在车站，老师说明了“に見える”的用法，意思是“to look”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0059",
@@ -585,9 +643,10 @@
     "grammar": "にする",
     "meaning": "to make something ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "会社で、「にする」を使うと自然に聞こえます。",
+    "example_cn": "在公司，使用“にする”会听起来更自然，表示“to make something”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0060",
@@ -595,9 +654,10 @@
     "grammar": "にくい",
     "meaning": "difficult to do ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "授業で、この表現は「にくい」を使って説明できます。",
+    "example_cn": "上课时，这个表达可以用“にくい”来说明，意思是“difficult to do”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0061",
@@ -605,9 +665,10 @@
     "grammar": "の中で（のなかで）",
     "meaning": "in; among ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "授業で、先生は「の中で」の使い方を説明しました。",
+    "example_cn": "上课时，老师说明了“の中で”的用法，意思是“in”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0062",
@@ -615,9 +676,10 @@
     "grammar": "のに",
     "meaning": "although, in spite of, even though ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "旅行中に、この表現は「のに」を使って説明できます。",
+    "example_cn": "旅行中，这个表达可以用“のに”来说明，意思是“although”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0063",
@@ -625,9 +687,10 @@
     "grammar": "のは〜だ",
     "meaning": "[A] is [B]; the reason for [A] is [B]",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "週末は、この表現は「のは〜だ」を使って説明できます。",
+    "example_cn": "周末，这个表达可以用“のは〜だ”来说明，意思是“[A] is [B]”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0064",
@@ -635,9 +698,10 @@
     "grammar": "お～ください",
     "meaning": "please do ~ (honorific)",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "授業で、先生は「おください」の使い方を説明しました。",
+    "example_cn": "上课时，老师说明了“おください”的用法，意思是“please do  (honorific)”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0065",
@@ -645,9 +709,10 @@
     "grammar": "お～になる",
     "meaning": "to do (honorific)",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "旅行中に、先生は「おになる」の使い方を説明しました。",
+    "example_cn": "旅行中，老师说明了“おになる”的用法，意思是“to do (honorific)”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0066",
@@ -655,9 +720,10 @@
     "grammar": "おきに",
     "meaning": "repeated at intervals, every ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "会社で、先生は「おきに」の使い方を説明しました。",
+    "example_cn": "在公司，老师说明了“おきに”的用法，意思是“repeated at intervals”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0067",
@@ -665,9 +731,10 @@
     "grammar": "終わる（おわる）",
     "meaning": "to finish; to end~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "旅行中に、「終わる」を使うと自然に聞こえます。",
+    "example_cn": "旅行中，使用“終わる”会听起来更自然，表示“to finish”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0068",
@@ -675,9 +742,10 @@
     "grammar": "られる",
     "meaning": "potential form; ability or inability to do something",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "旅行中に、「られる」を使うと自然に聞こえます。",
+    "example_cn": "旅行中，使用“られる”会听起来更自然，表示“potential form”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0069",
@@ -685,9 +753,10 @@
     "grammar": "らしい",
     "meaning": "it seems like; I heard; apparently ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "旅行中に、先生は「らしい」の使い方を説明しました。",
+    "example_cn": "旅行中，老师说明了“らしい”的用法，意思是“it seems like”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0070",
@@ -695,9 +764,10 @@
     "grammar": "さ",
     "meaning": "-ness ; nominalizer for adjective",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "週末は、この表現は「さ」を使って説明できます。",
+    "example_cn": "周末，这个表达可以用“さ”来说明，意思是“-ness”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0071",
@@ -705,9 +775,10 @@
     "grammar": "さっき",
     "meaning": "some time ago; just now",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "駅で、先生は「さっき」の使い方を説明しました。",
+    "example_cn": "在车站，老师说明了“さっき”的用法，意思是“some time ago”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0072",
@@ -715,9 +786,10 @@
     "grammar": "させられる",
     "meaning": "causative-passive; to be made to do something",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "会社で、「させられる」を使うと自然に聞こえます。",
+    "example_cn": "在公司，使用“させられる”会听起来更自然，表示“causative-passive”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0073",
@@ -725,9 +797,10 @@
     "grammar": "させる",
     "meaning": "causative form; to make/let somebody do something",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "駅で、先生は「させる」の使い方を説明しました。",
+    "example_cn": "在车站，老师说明了“させる”的用法，意思是“causative form”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0074",
@@ -735,9 +808,10 @@
     "grammar": "させてください",
     "meaning": "please let me do",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "会社で、「させてください」を使うと自然に聞こえます。",
+    "example_cn": "在公司，使用“させてください”会听起来更自然，表示“please let me do”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0075",
@@ -745,9 +819,10 @@
     "grammar": "さすが",
     "meaning": "as one would expect; as is to be expected; even ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "会社で、この表現は「さすが」を使って説明できます。",
+    "example_cn": "在公司，这个表达可以用“さすが”来说明，意思是“as one would expect”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0076",
@@ -755,9 +830,10 @@
     "grammar": "し",
     "meaning": "and; and what’s more ~ (emphasis)",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "週末は、「し」を使うと自然に聞こえます。",
+    "example_cn": "周末，使用“し”会听起来更自然，表示“and”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0077",
@@ -765,9 +841,10 @@
     "grammar": "そんなに",
     "meaning": "so much; so; like that",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "駅で、「そんなに」を使うと自然に聞こえます。",
+    "example_cn": "在车站，使用“そんなに”会听起来更自然，表示“so much”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0078",
@@ -775,9 +852,10 @@
     "grammar": "それでも",
     "meaning": "but still; and yet; even so ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "会社で、先生は「それでも」の使い方を説明しました。",
+    "example_cn": "在公司，老师说明了“それでも”的用法，意思是“but still”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0079",
@@ -785,9 +863,10 @@
     "grammar": "それに",
     "meaning": "besides; in addition; also; moreover ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "週末は、この表現は「それに」を使って説明できます。",
+    "example_cn": "周末，这个表达可以用“それに”来说明，意思是“besides”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0080",
@@ -795,9 +874,10 @@
     "grammar": "そうだ",
     "meaning": "I heard that; it is said that ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "授業で、先生は「そうだ」の使い方を説明しました。",
+    "example_cn": "上课时，老师说明了“そうだ”的用法，意思是“I heard that”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0081",
@@ -805,9 +885,10 @@
     "grammar": "そうに / そうな",
     "meaning": "seems like; looks like ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "授業で、「そうに」を使うと自然に聞こえます。",
+    "example_cn": "上课时，使用“そうに”会听起来更自然，表示“seems like”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0082",
@@ -815,9 +896,10 @@
     "grammar": "たばかり",
     "meaning": "just finished; something just occurred",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "旅行中に、この表現は「たばかり」を使って説明できます。",
+    "example_cn": "旅行中，这个表达可以用“たばかり”来说明，意思是“just finished”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0083",
@@ -825,9 +907,10 @@
     "grammar": "たところ",
     "meaning": "just finished doing, was just doing",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "子どもが寝ている間に、夕食を作りました。",
+    "example_cn": "孩子睡觉的时候，我做了晚饭。这里练习“たところ”，表示“just finished doing”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0084",
@@ -835,9 +918,10 @@
     "grammar": "他動詞 & 自動詞（たどうし & じどうし）",
     "meaning": "Transitive & Intransitive Verbs",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "旅行中に、「他動詞 & 自動詞」を使うと自然に聞こえます。",
+    "example_cn": "旅行中，使用“他動詞 & 自動詞”会听起来更自然，表示“Transitive & Intransitive Verbs”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0085",
@@ -845,9 +929,10 @@
     "grammar": "たがる",
     "meaning": "wants to do ~ (third person)",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "週末は友達と映画を見に行きたいです。",
+    "example_cn": "周末想和朋友去看电影。这里练习“たがる”，表示“wants to do  (third person)”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0086",
@@ -855,9 +940,10 @@
     "grammar": "たら",
     "meaning": "if; after; when ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "旅行中に、先生は「たら」の使い方を説明しました。",
+    "example_cn": "旅行中，老师说明了“たら”的用法，意思是“if”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0087",
@@ -865,9 +951,10 @@
     "grammar": "たらどう",
     "meaning": "why don't you; how about ~ (used to give advice)",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "授業で、この表現は「たらどう」を使って説明できます。",
+    "example_cn": "上课时，这个表达可以用“たらどう”来说明，意思是“why don't you”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0088",
@@ -875,9 +962,10 @@
     "grammar": "たらいいですか",
     "meaning": "what should I do?; speaker seeking instructions from listener",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "駅で、先生は「たらいいですか」の使い方を説明しました。",
+    "example_cn": "在车站，老师说明了“たらいいですか”的用法，意思是“what should I do?”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0089",
@@ -885,9 +973,10 @@
     "grammar": "て / で",
     "meaning": "conjunctive particle; so; because of [A], [B]...",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "週末は、先生は「て」の使い方を説明しました。",
+    "example_cn": "周末，老师说明了“て”的用法，意思是“conjunctive particle”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0090",
@@ -895,9 +984,10 @@
     "grammar": "てあげる",
     "meaning": "to do for; to do a favor",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "会社で、この表現は「てあげる」を使って説明できます。",
+    "example_cn": "在公司，这个表达可以用“てあげる”来说明，意思是“to do for”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0091",
@@ -905,9 +995,10 @@
     "grammar": "てほしい",
     "meaning": "I want you to; need you to ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "会社で、「てほしい」を使うと自然に聞こえます。",
+    "example_cn": "在公司，使用“てほしい”会听起来更自然，表示“I want you to”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0092",
@@ -915,9 +1006,10 @@
     "grammar": "ていく",
     "meaning": "to start; to continue; to go on",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "旅行中に、この表現は「ていく」を使って説明できます。",
+    "example_cn": "旅行中，这个表达可以用“ていく”来说明，意思是“to start”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0093",
@@ -925,9 +1017,10 @@
     "grammar": "ていた",
     "meaning": "was doing something (past continuous)",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "旅行中に、「ていた」を使うと自然に聞こえます。",
+    "example_cn": "旅行中，使用“ていた”会听起来更自然，表示“was doing something (past continuous)”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0094",
@@ -935,9 +1028,10 @@
     "grammar": "ていただけませんか",
     "meaning": "could you please ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "授業で、先生は「ていただけませんか」の使い方を説明しました。",
+    "example_cn": "上课时，老师说明了“ていただけませんか”的用法，意思是“could you please”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0095",
@@ -945,9 +1039,10 @@
     "grammar": "てくれる",
     "meaning": "to do a favor; do something for someone",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "旅行中に、この表現は「てくれる」を使って説明できます。",
+    "example_cn": "旅行中，这个表达可以用“てくれる”来说明，意思是“to do a favor”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0096",
@@ -955,9 +1050,10 @@
     "grammar": "てくる",
     "meaning": "to do… and come back; to become; to continue; to start ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "週末は、先生は「てくる」の使い方を説明しました。",
+    "example_cn": "周末，老师说明了“てくる”的用法，意思是“to do… and come back”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0097",
@@ -965,9 +1061,10 @@
     "grammar": "てみる",
     "meaning": "try doing",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "駅で、「てみる」を使うと自然に聞こえます。",
+    "example_cn": "在车站，使用“てみる”会听起来更自然，表示“try doing”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0098",
@@ -975,9 +1072,10 @@
     "grammar": "てもらう",
     "meaning": "to get somebody to do something",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "授業で、「てもらう」を使うと自然に聞こえます。",
+    "example_cn": "上课时，使用“てもらう”会听起来更自然，表示“to get somebody to do something”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0099",
@@ -985,9 +1083,10 @@
     "grammar": "ておく",
     "meaning": "to do something in advance",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "旅行中に、先生は「ておく」の使い方を説明しました。",
+    "example_cn": "旅行中，老师说明了“ておく”的用法，意思是“to do something in advance”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0100",
@@ -995,9 +1094,10 @@
     "grammar": "てしまう / ちゃう",
     "meaning": "to do something by accident, to finish completely",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "旅行中に、先生は「てしまう」の使い方を説明しました。",
+    "example_cn": "旅行中，老师说明了“てしまう”的用法，意思是“to do something by accident”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0101",
@@ -1005,9 +1105,10 @@
     "grammar": "てすみません",
     "meaning": "I’m sorry for",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "会社で、「てすみません」を使うと自然に聞こえます。",
+    "example_cn": "在公司，使用“てすみません”会听起来更自然，表示“I’m sorry for”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0102",
@@ -1015,9 +1116,10 @@
     "grammar": "てやる",
     "meaning": "to do for; to do a favor (casual)",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "会社で、先生は「てやる」の使い方を説明しました。",
+    "example_cn": "在公司，老师说明了“てやる”的用法，意思是“to do for”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0103",
@@ -1025,9 +1127,10 @@
     "grammar": "てよかった",
     "meaning": "I’m glad that ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "旅行中に、この表現は「てよかった」を使って説明できます。",
+    "example_cn": "旅行中，这个表达可以用“てよかった”来说明，意思是“I’m glad that”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0104",
@@ -1035,9 +1138,10 @@
     "grammar": "ているところ",
     "meaning": "in the process of doing",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "子どもが寝ている間に、夕食を作りました。",
+    "example_cn": "孩子睡觉的时候，我做了晚饭。这里练习“ているところ”，表示“in the process of doing”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0105",
@@ -1045,9 +1149,10 @@
     "grammar": "ても",
     "meaning": "even; even if; even though ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "旅行中に、「ても」を使うと自然に聞こえます。",
+    "example_cn": "旅行中，使用“ても”会听起来更自然，表示“even”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0106",
@@ -1055,9 +1160,10 @@
     "grammar": "と",
     "meaning": "whenever [A] happens, [B] also happens",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "会社で、この表現は「と」を使って説明できます。",
+    "example_cn": "在公司，这个表达可以用“と”来说明，意思是“whenever [A] happens”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0107",
@@ -1065,9 +1171,10 @@
     "grammar": "と言ってもいい（といってもいい）",
     "meaning": "you could say; one might say; I'd say ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "週末は、この表現は「と言ってもいい」を使って説明できます。",
+    "example_cn": "周末，这个表达可以用“と言ってもいい”来说明，意思是“you could say”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0108",
@@ -1075,9 +1182,10 @@
     "grammar": "という",
     "meaning": "called; named; that ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "旅行中に、先生は「という」の使い方を説明しました。",
+    "example_cn": "旅行中，老师说明了“という”的用法，意思是“called”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0109",
@@ -1085,9 +1193,10 @@
     "grammar": "ということ",
     "meaning": "convert phrase into noun",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "会社で、この表現は「ということ」を使って説明できます。",
+    "example_cn": "在公司，这个表达可以用“ということ”来说明，意思是“convert phrase into noun”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0110",
@@ -1095,9 +1204,10 @@
     "grammar": "と言われている（といわれている）",
     "meaning": "it is said that ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "会社で、「と言われている」を使うと自然に聞こえます。",
+    "example_cn": "在公司，使用“と言われている”会听起来更自然，表示“it is said that”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0111",
@@ -1105,9 +1215,10 @@
     "grammar": "と聞いた（ときいた）",
     "meaning": "I heard...",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "会社で、この表現は「と聞いた」を使って説明できます。",
+    "example_cn": "在公司，这个表达可以用“と聞いた”来说明，意思是“I heard...”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0112",
@@ -1115,9 +1226,10 @@
     "grammar": "と思う（とおもう）",
     "meaning": "to think…; I think…; you think…",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "午後から雨が降るかもしれません。",
+    "example_cn": "下午可能会下雨。这里练习“と思う”，表示“to think…”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0113",
@@ -1125,9 +1237,10 @@
     "grammar": "とか～とか",
     "meaning": "among other things; such as; like ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "旅行中に、先生は「とかとか」の使い方を説明しました。",
+    "example_cn": "旅行中，老师说明了“とかとか”的用法，意思是“among other things”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0114",
@@ -1135,9 +1248,10 @@
     "grammar": "ところ",
     "meaning": "just about to; on the verge of doing something",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "子どもが寝ている間に、夕食を作りました。",
+    "example_cn": "孩子睡觉的时候，我做了晚饭。这里练习“ところ”，表示“just about to”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0115",
@@ -1145,9 +1259,10 @@
     "grammar": "続ける（つづける）",
     "meaning": "continue to; keen on ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "旅行中に、この表現は「続ける」を使って説明できます。",
+    "example_cn": "旅行中，这个表达可以用“続ける”来说明，意思是“continue to”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0116",
@@ -1155,9 +1270,10 @@
     "grammar": "って",
     "meaning": "named; called ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "週末は、この表現は「って」を使って説明できます。",
+    "example_cn": "周末，这个表达可以用“って”来说明，意思是“named”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0117",
@@ -1165,9 +1281,10 @@
     "grammar": "受身形（うけみけい）",
     "meaning": "passive form; passive voice",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "駅で、この表現は「受身形」を使って説明できます。",
+    "example_cn": "在车站，这个表达可以用“受身形”来说明，意思是“passive form”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0118",
@@ -1175,9 +1292,10 @@
     "grammar": "は〜が… は",
     "meaning": "[A] but [B]; however; comparison",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "週末は、この表現は「は〜が… は」を使って説明できます。",
+    "example_cn": "周末，这个表达可以用“は〜が… は”来说明，意思是“[A] but [B]”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0119",
@@ -1185,9 +1303,10 @@
     "grammar": "やすい",
     "meaning": "easy to; likely to; prone to; have a tendency to ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "会社で、先生は「やすい」の使い方を説明しました。",
+    "example_cn": "在公司，老师说明了“やすい”的用法，意思是“easy to”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0120",
@@ -1195,9 +1314,10 @@
     "grammar": "やっと",
     "meaning": "at last; finally; barely; narrowly ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "会社で、「やっと」を使うと自然に聞こえます。",
+    "example_cn": "在公司，使用“やっと”会听起来更自然，表示“at last”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0121",
@@ -1205,9 +1325,10 @@
     "grammar": "より",
     "meaning": "than; rather than; more than ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "会社で、この表現は「より」を使って説明できます。",
+    "example_cn": "在公司，这个表达可以用“より”来说明，意思是“than”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0122",
@@ -1215,9 +1336,10 @@
     "grammar": "予定だ（よていだ）",
     "meaning": "plan to, intend to",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "駅で、この表現は「予定だ」を使って説明できます。",
+    "example_cn": "在车站，这个表达可以用“予定だ”来说明，意思是“plan to”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0123",
@@ -1225,9 +1347,10 @@
     "grammar": "ようだ",
     "meaning": "appears; seems; looks as if ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "週末は、先生は「ようだ」の使い方を説明しました。",
+    "example_cn": "周末，老师说明了“ようだ”的用法，意思是“appears”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0124",
@@ -1235,9 +1358,10 @@
     "grammar": "ように / ような",
     "meaning": "like; as; similar to ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "週末は、この表現は「ように」を使って説明できます。",
+    "example_cn": "周末，这个表达可以用“ように”来说明，意思是“like”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0125",
@@ -1245,9 +1369,10 @@
     "grammar": "ようになる",
     "meaning": "to reach the point that; to come to be that; to turn into ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "旅行中に、この表現は「ようになる」を使って説明できます。",
+    "example_cn": "旅行中，这个表达可以用“ようになる”来说明，意思是“to reach the point that”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0126",
@@ -1255,9 +1380,10 @@
     "grammar": "ようにする",
     "meaning": "to try to; to make sure that ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "会社で、先生は「ようにする」の使い方を説明しました。",
+    "example_cn": "在公司，老师说明了“ようにする”的用法，意思是“to try to”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0127",
@@ -1265,9 +1391,10 @@
     "grammar": "ようと思う（ようとおもう）",
     "meaning": "thinking of doing; planning to ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "午後から雨が降るかもしれません。",
+    "example_cn": "下午可能会下雨。这里练习“ようと思う”，表示“thinking of doing”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0128",
@@ -1275,9 +1402,10 @@
     "grammar": "ぜひ",
     "meaning": "by all means; certainly; definitely ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "授業で、この表現は「ぜひ」を使って説明できます。",
+    "example_cn": "上课时，这个表达可以用“ぜひ”来说明，意思是“by all means”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0129",
@@ -1285,9 +1413,10 @@
     "grammar": "全然～ない（ぜんぜん～ない）",
     "meaning": "(not) at all",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "授業で、先生は「全然ない」の使い方を説明しました。",
+    "example_cn": "上课时，老师说明了“全然ない”的用法，意思是“(not) at all”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n4_grammar_0130",
@@ -1295,8 +1424,9 @@
     "grammar": "づらい",
     "meaning": "difficult to do ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "授業で、「づらい」を使うと自然に聞こえます。",
+    "example_cn": "上课时，使用“づらい”会听起来更自然，表示“difficult to do”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   }
 ]

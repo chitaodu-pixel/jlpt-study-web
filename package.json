@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "generate:word-examples": "node scripts/generate-word-examples-local.mjs"
+    "generate:word-examples": "node scripts/generate-word-examples-local.mjs",
+    "generate:grammar-examples": "node scripts/generate-grammar-examples-local.mjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.46.1",

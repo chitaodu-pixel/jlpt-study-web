@@ -5,9 +5,10 @@
     "grammar": "ちゃいけない・じゃいけない",
     "meaning": "must not do (spoken Japanese)",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "明日は早いので、夜更かししてはいけません。",
+    "example_cn": "因为明天要早起，所以不能熬夜。这里练习“ちゃいけない”，表示“must not do (spoken Japanese)”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0002",
@@ -15,9 +16,10 @@
     "grammar": "だ / です",
     "meaning": "to be (am, is, are, were, used to)",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "今日は、「だ」を使うと自然に聞こえます。",
+    "example_cn": "今天，使用“だ”会听起来更自然，表示“to be (am”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0003",
@@ -25,9 +27,10 @@
     "grammar": "だけ",
     "meaning": "only; just; as much as ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "学校で、この表現は「だけ」を使って説明できます。",
+    "example_cn": "在学校，这个表达可以用“だけ”来说明，意思是“only”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0004",
@@ -35,9 +38,10 @@
     "grammar": "だろう",
     "meaning": "I think; it seems; probably; right?",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "午後から雨が降るかもしれません。",
+    "example_cn": "下午可能会下雨。这里练习“だろう”，表示“I think”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0005",
@@ -45,9 +49,10 @@
     "grammar": "で",
     "meaning": "in; at; on; by; with; via ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "家で、この表現は「で」を使って説明できます。",
+    "example_cn": "在家里，这个表达可以用“で”来说明，意思是“in”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0006",
@@ -55,9 +60,10 @@
     "grammar": "でも",
     "meaning": "but; however; though ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "朝、先生は「でも」の使い方を説明しました。",
+    "example_cn": "早上，老师说明了“でも”的用法，意思是“but”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0007",
@@ -65,9 +71,10 @@
     "grammar": "でしょう",
     "meaning": "I think; it seems; probably; right?",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "午後から雨が降るかもしれません。",
+    "example_cn": "下午可能会下雨。这里练习“でしょう”，表示“I think”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0008",
@@ -75,9 +82,10 @@
     "grammar": "どんな",
     "meaning": "what kind of; what sort of",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "家で、この表現は「どんな」を使って説明できます。",
+    "example_cn": "在家里，这个表达可以用“どんな”来说明，意思是“what kind of”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0009",
@@ -85,9 +93,10 @@
     "grammar": "どうして",
     "meaning": "why; for what reason; how",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "朝、この表現は「どうして」を使って説明できます。",
+    "example_cn": "早上，这个表达可以用“どうして”来说明，意思是“why”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0010",
@@ -95,9 +104,10 @@
     "grammar": "どうやって",
     "meaning": "how; in what way; by what means",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "学校で、「どうやって」を使うと自然に聞こえます。",
+    "example_cn": "在学校，使用“どうやって”会听起来更自然，表示“how”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0011",
@@ -105,9 +115,10 @@
     "grammar": "が",
     "meaning": "subject marker; however; but ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "朝、先生は「が」の使い方を説明しました。",
+    "example_cn": "早上，老师说明了“が”的用法，意思是“subject marker”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0012",
@@ -115,9 +126,10 @@
     "grammar": "があります",
     "meaning": "there is; is (non-living things)",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "今日は、先生は「があります」の使い方を説明しました。",
+    "example_cn": "今天，老师说明了“があります”的用法，意思是“there is”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0013",
@@ -125,9 +137,10 @@
     "grammar": "がほしい",
     "meaning": "to want something",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "朝、「がほしい」を使うと自然に聞こえます。",
+    "example_cn": "早上，使用“がほしい”会听起来更自然，表示“to want something”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0014",
@@ -135,9 +148,10 @@
     "grammar": "がいます",
     "meaning": "there is; to be; is (living things)",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "友達と、この表現は「がいます」を使って説明できます。",
+    "example_cn": "和朋友，这个表达可以用“がいます”来说明，意思是“there is”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0015",
@@ -145,9 +159,10 @@
     "grammar": "ほうがいい",
     "meaning": "had better; it'd be better to; should ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "友達と、この表現は「ほうがいい」を使って説明できます。",
+    "example_cn": "和朋友，这个表达可以用“ほうがいい”来说明，意思是“had better”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0016",
@@ -155,9 +170,10 @@
     "grammar": "い-adjectives",
     "meaning": "i-adjectives",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "学校で、先生は「い-adjectives」の使い方を説明しました。",
+    "example_cn": "在学校，老师说明了“い-adjectives”的用法，意思是“i-adjectives”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0017",
@@ -165,9 +181,10 @@
     "grammar": "一番（いちばん）",
     "meaning": "the most; the best",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "家で、先生は「一番」の使い方を説明しました。",
+    "example_cn": "在家里，老师说明了“一番”的用法，意思是“the most”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0018",
@@ -175,9 +192,10 @@
     "grammar": "一緒に（いっしょに）",
     "meaning": "together",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "家で、この表現は「一緒に」を使って説明できます。",
+    "example_cn": "在家里，这个表达可以用“一緒に”来说明，意思是“together”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0019",
@@ -185,9 +203,10 @@
     "grammar": "いつも",
     "meaning": "always; usually; habitually",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "学校で、先生は「いつも」の使い方を説明しました。",
+    "example_cn": "在学校，老师说明了“いつも”的用法，意思是“always”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0020",
@@ -195,9 +214,10 @@
     "grammar": "じゃない・ではない",
     "meaning": "to not be (am not; is not; are not)",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "学校で、この表現は「じゃない」を使って説明できます。",
+    "example_cn": "在学校，这个表达可以用“じゃない”来说明，意思是“to not be (am not”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0021",
@@ -205,9 +225,10 @@
     "grammar": "か",
     "meaning": "question particle",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "家で、「か」を使うと自然に聞こえます。",
+    "example_cn": "在家里，使用“か”会听起来更自然，表示“question particle”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0022",
@@ -215,9 +236,10 @@
     "grammar": "か～か",
     "meaning": "or",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "友達と、先生は「かか」の使い方を説明しました。",
+    "example_cn": "和朋友，老师说明了“かか”的用法，意思是“or”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0023",
@@ -225,9 +247,10 @@
     "grammar": "から",
     "meaning": "because; since; from",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "電車が遅れたので、少し遅刻しました。",
+    "example_cn": "因为电车晚点了，所以稍微迟到了。这里练习“から”，表示“because”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0024",
@@ -235,9 +258,10 @@
     "grammar": "方（かた）",
     "meaning": "the way of doing something; how to do ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "家で、「方」を使うと自然に聞こえます。",
+    "example_cn": "在家里，使用“方”会听起来更自然，表示“the way of doing something”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0025",
@@ -245,9 +269,10 @@
     "grammar": "けど",
     "meaning": "but; however; although ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "今日は、「けど」を使うと自然に聞こえます。",
+    "example_cn": "今天，使用“けど”会听起来更自然，表示“but”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0026",
@@ -255,9 +280,10 @@
     "grammar": "けれども",
     "meaning": "but; however; although ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "学校で、先生は「けれども」の使い方を説明しました。",
+    "example_cn": "在学校，老师说明了“けれども”的用法，意思是“but”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0027",
@@ -265,9 +291,10 @@
     "grammar": "まだ",
     "meaning": "still; not yet",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "今日は、この表現は「まだ」を使って説明できます。",
+    "example_cn": "今天，这个表达可以用“まだ”来说明，意思是“still”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0028",
@@ -275,9 +302,10 @@
     "grammar": "まだ～ていません",
     "meaning": "have not yet ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "学校で、この表現は「まだていません」を使って説明できます。",
+    "example_cn": "在学校，这个表达可以用“まだていません”来说明，意思是“have not yet”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0029",
@@ -285,9 +313,10 @@
     "grammar": "まで",
     "meaning": "until; as far as; to (an extent); even ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "学校で、先生は「まで」の使い方を説明しました。",
+    "example_cn": "在学校，老师说明了“まで”的用法，意思是“until”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0030",
@@ -295,9 +324,10 @@
     "grammar": "前に（まえに）",
     "meaning": "before; in front of ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "朝、先生は「前に」の使い方を説明しました。",
+    "example_cn": "早上，老师说明了“前に”的用法，意思是“before”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0031",
@@ -305,9 +335,10 @@
     "grammar": "ませんか",
     "meaning": "would you; do you want to; shall we ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "朝、この表現は「ませんか」を使って説明できます。",
+    "example_cn": "早上，这个表达可以用“ませんか”来说明，意思是“would you”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0032",
@@ -315,9 +346,10 @@
     "grammar": "ましょう",
     "meaning": "let's ~; shall we ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "今日は、先生は「ましょう」の使い方を説明しました。",
+    "example_cn": "今天，老师说明了“ましょう”的用法，意思是“let's”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0033",
@@ -325,9 +357,10 @@
     "grammar": "ましょうか",
     "meaning": "shall I ~; used to offer help to the listener",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "友達と、先生は「ましょうか」の使い方を説明しました。",
+    "example_cn": "和朋友，老师说明了“ましょうか”的用法，意思是“shall I”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0034",
@@ -335,9 +368,10 @@
     "grammar": "も",
     "meaning": "too; also; as well",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "友達と、「も」を使うと自然に聞こえます。",
+    "example_cn": "和朋友，使用“も”会听起来更自然，表示“too”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0035",
@@ -345,9 +379,10 @@
     "grammar": "もう",
     "meaning": "already; anymore; again; other",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "今日は、この表現は「もう」を使って説明できます。",
+    "example_cn": "今天，这个表达可以用“もう”来说明，意思是“already”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0036",
@@ -355,9 +390,10 @@
     "grammar": "な-adjectives",
     "meaning": "na-adjectives",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "今日は、「な-adjectives」を使うと自然に聞こえます。",
+    "example_cn": "今天，使用“な-adjectives”会听起来更自然，表示“na-adjectives”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0037",
@@ -365,9 +401,10 @@
     "grammar": "なあ",
     "meaning": "sentence ending particle; confirmation; admiration, etc",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "学校で、この表現は「なあ」を使って説明できます。",
+    "example_cn": "在学校，这个表达可以用“なあ”来说明，意思是“sentence ending particle”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0038",
@@ -375,9 +412,10 @@
     "grammar": "ないで",
     "meaning": "without doing ~; to do [B] without doing [A]",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "学校で、この表現は「ないで」を使って説明できます。",
+    "example_cn": "在学校，这个表达可以用“ないで”来说明，意思是“without doing”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0039",
@@ -385,9 +423,10 @@
     "grammar": "ないでください",
     "meaning": "please don't do ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "家で、先生は「ないでください」の使い方を説明しました。",
+    "example_cn": "在家里，老师说明了“ないでください”的用法，意思是“please don't do”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0040",
@@ -395,9 +434,10 @@
     "grammar": "ないといけない",
     "meaning": "must do; have an obligation to do ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "友達と、この表現は「ないといけない」を使って説明できます。",
+    "example_cn": "和朋友，这个表达可以用“ないといけない”来说明，意思是“must do”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0041",
@@ -405,9 +445,10 @@
     "grammar": "なくてもいい",
     "meaning": "don't have to",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "学校で、この表現は「なくてもいい」を使って説明できます。",
+    "example_cn": "在学校，这个表达可以用“なくてもいい”来说明，意思是“don't have to”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0042",
@@ -415,9 +456,10 @@
     "grammar": "なくちゃ",
     "meaning": "must do; need to; gotta do ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "今日は、この表現は「なくちゃ」を使って説明できます。",
+    "example_cn": "今天，这个表达可以用“なくちゃ”来说明，意思是“must do”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0043",
@@ -425,9 +467,10 @@
     "grammar": "なくてはいけない",
     "meaning": "must do; need to do",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "明日は早いので、夜更かししてはいけません。",
+    "example_cn": "因为明天要早起，所以不能熬夜。这里练习“なくてはいけない”，表示“must do”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0044",
@@ -435,9 +478,10 @@
     "grammar": "なくてはならない",
     "meaning": "must do; need to do ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "学校で、この表現は「なくてはならない」を使って説明できます。",
+    "example_cn": "在学校，这个表达可以用“なくてはならない”来说明，意思是“must do”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0045",
@@ -445,9 +489,10 @@
     "grammar": "なる",
     "meaning": "to become",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "学校で、先生は「なる」の使い方を説明しました。",
+    "example_cn": "在学校，老师说明了“なる”的用法，意思是“to become”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0046",
@@ -455,9 +500,10 @@
     "grammar": "んです",
     "meaning": "to explain something; show emphasis",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "学校で、「んです」を使うと自然に聞こえます。",
+    "example_cn": "在学校，使用“んです”会听起来更自然，表示“to explain something”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0047",
@@ -465,9 +511,10 @@
     "grammar": "ね",
     "meaning": "isn't it? right? eh?",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "朝、「ね」を使うと自然に聞こえます。",
+    "example_cn": "早上，使用“ね”会听起来更自然，表示“isn't it? right? eh?”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0048",
@@ -475,9 +522,10 @@
     "grammar": "に",
     "meaning": "destination particle; in; at; on; to",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "朝、「に」を使うと自然に聞こえます。",
+    "example_cn": "早上，使用“に”会听起来更自然，表示“destination particle”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0049",
@@ -485,9 +533,10 @@
     "grammar": "に行く（にいく）",
     "meaning": "go to do ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "朝、「に行く」を使うと自然に聞こえます。",
+    "example_cn": "早上，使用“に行く”会听起来更自然，表示“go to do”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0050",
@@ -495,9 +544,10 @@
     "grammar": "にする",
     "meaning": "to decide on",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "今日は、この表現は「にする」を使って説明できます。",
+    "example_cn": "今天，这个表达可以用“にする”来说明，意思是“to decide on”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0051",
@@ -505,9 +555,10 @@
     "grammar": "に/へ",
     "meaning": "to (indicates direction / destination)",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "今日は、この表現は「に」を使って説明できます。",
+    "example_cn": "今天，这个表达可以用“に”来说明，意思是“to (indicates direction / destination)”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0052",
@@ -515,9 +566,10 @@
     "grammar": "の",
     "meaning": "possessive particle",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "学校で、この表現は「の」を使って説明できます。",
+    "example_cn": "在学校，这个表达可以用“の”来说明，意思是“possessive particle”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0053",
@@ -525,9 +577,10 @@
     "grammar": "のです",
     "meaning": "to explain something; show emphasis",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "電車が遅れたので、少し遅刻しました。",
+    "example_cn": "因为电车晚点了，所以稍微迟到了。这里练习“のです”，表示“to explain something”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0054",
@@ -535,9 +588,10 @@
     "grammar": "のが下手（のがへた）",
     "meaning": "to be bad at doing something",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "朝、この表現は「のが下手」を使って説明できます。",
+    "example_cn": "早上，这个表达可以用“のが下手”来说明，意思是“to be bad at doing something”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0055",
@@ -545,9 +599,10 @@
     "grammar": "のが上手（のがじょうず）",
     "meaning": "to be good at",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "学校で、「のが上手」を使うと自然に聞こえます。",
+    "example_cn": "在学校，使用“のが上手”会听起来更自然，表示“to be good at”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0056",
@@ -555,9 +610,10 @@
     "grammar": "のが好き（のがすき）",
     "meaning": "to like doing something",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "朝、「のが好き」を使うと自然に聞こえます。",
+    "example_cn": "早上，使用“のが好き”会听起来更自然，表示“to like doing something”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0057",
@@ -565,9 +621,10 @@
     "grammar": "の中で[A]が一番（のなかで[A]がいちばん）",
     "meaning": "out of this group, [A] is best",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "今日は、この表現は「の中で[A]が一番」を使って説明できます。",
+    "example_cn": "今天，这个表达可以用“の中で[A]が一番”来说明，意思是“out of this group”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0058",
@@ -575,9 +632,10 @@
     "grammar": "ので",
     "meaning": "because of; given that; since ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "電車が遅れたので、少し遅刻しました。",
+    "example_cn": "因为电车晚点了，所以稍微迟到了。这里练习“ので”，表示“because of”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0059",
@@ -585,9 +643,10 @@
     "grammar": "お / ご",
     "meaning": "polite marker; honorific prefix particle",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "学校で、この表現は「お」を使って説明できます。",
+    "example_cn": "在学校，这个表达可以用“お”来说明，意思是“polite marker”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0060",
@@ -595,9 +654,10 @@
     "grammar": "を",
     "meaning": "object marker particle",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "友達と、「を」を使うと自然に聞こえます。",
+    "example_cn": "和朋友，使用“を”会听起来更自然，表示“object marker particle”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0061",
@@ -605,9 +665,10 @@
     "grammar": "をください",
     "meaning": "please give me ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "友達と、「をください」を使うと自然に聞こえます。",
+    "example_cn": "和朋友，使用“をください”会听起来更自然，表示“please give me”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0062",
@@ -615,9 +676,10 @@
     "grammar": "しかし",
     "meaning": "but; however ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "学校で、「しかし」を使うと自然に聞こえます。",
+    "example_cn": "在学校，使用“しかし”会听起来更自然，表示“but”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0063",
@@ -625,9 +687,10 @@
     "grammar": "それから",
     "meaning": "and; and then; after that; since then",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "電車が遅れたので、少し遅刻しました。",
+    "example_cn": "因为电车晚点了，所以稍微迟到了。这里练习“それから”，表示“and”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0064",
@@ -635,9 +698,10 @@
     "grammar": "そして",
     "meaning": "and; and then; thus; and now ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "家で、「そして」を使うと自然に聞こえます。",
+    "example_cn": "在家里，使用“そして”会听起来更自然，表示“and”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0065",
@@ -645,9 +709,10 @@
     "grammar": "すぎる",
     "meaning": "too much",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "家で、先生は「すぎる」の使い方を説明しました。",
+    "example_cn": "在家里，老师说明了“すぎる”的用法，意思是“too much”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0066",
@@ -655,9 +720,10 @@
     "grammar": "たことがある",
     "meaning": "to have done something before",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "友達と、この表現は「たことがある」を使って説明できます。",
+    "example_cn": "和朋友，这个表达可以用“たことがある”来说明，意思是“to have done something before”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0067",
@@ -665,9 +731,10 @@
     "grammar": "たい",
     "meaning": "want to do something",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "週末は友達と映画を見に行きたいです。",
+    "example_cn": "周末想和朋友去看电影。这里练习“たい”，表示“want to do something”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0068",
@@ -675,9 +742,10 @@
     "grammar": "たり～たり",
     "meaning": "do such things as A and B",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "今日は、「たりたり」を使うと自然に聞こえます。",
+    "example_cn": "今天，使用“たりたり”会听起来更自然，表示“do such things as A and B”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0069",
@@ -685,9 +753,10 @@
     "grammar": "てある",
     "meaning": "is/has been done (resulting state)",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "友達と、「てある」を使うと自然に聞こえます。",
+    "example_cn": "和朋友，使用“てある”会听起来更自然，表示“is/has been done (resulting state)”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0070",
@@ -695,9 +764,10 @@
     "grammar": "ている",
     "meaning": "ongoing action or current state",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "今日は、この表現は「ている」を使って説明できます。",
+    "example_cn": "今天，这个表达可以用“ている”来说明，意思是“ongoing action or current state”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0071",
@@ -705,9 +775,10 @@
     "grammar": "てから",
     "meaning": "after doing ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "電車が遅れたので、少し遅刻しました。",
+    "example_cn": "因为电车晚点了，所以稍微迟到了。这里练习“てから”，表示“after doing”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0072",
@@ -715,9 +786,10 @@
     "grammar": "てください",
     "meaning": "please do",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "今日は、先生は「てください」の使い方を説明しました。",
+    "example_cn": "今天，老师说明了“てください”的用法，意思是“please do”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0073",
@@ -725,9 +797,10 @@
     "grammar": "てはいけない",
     "meaning": "must not; may not; cannot",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "明日は早いので、夜更かししてはいけません。",
+    "example_cn": "因为明天要早起，所以不能熬夜。这里练习“てはいけない”，表示“must not”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0074",
@@ -735,9 +808,10 @@
     "grammar": "てもいいです",
     "meaning": "is OK to ~; is alright to ~; may I ~?",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "今日は、この表現は「てもいいです」を使って説明できます。",
+    "example_cn": "今天，这个表达可以用“てもいいです”来说明，意思是“is OK to”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0075",
@@ -745,9 +819,10 @@
     "grammar": "と",
     "meaning": "and; with; as; connecting particle",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "学校で、この表現は「と」を使って説明できます。",
+    "example_cn": "在学校，这个表达可以用“と”来说明，意思是“and”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0076",
@@ -755,9 +830,10 @@
     "grammar": "とき",
     "meaning": "when; at this time",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "今日は、先生は「とき」の使い方を説明しました。",
+    "example_cn": "今天，老师说明了“とき”的用法，意思是“when”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0077",
@@ -765,9 +841,10 @@
     "grammar": "とても",
     "meaning": "very; awfully; exceedingly",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "朝、この表現は「とても」を使って説明できます。",
+    "example_cn": "早上，这个表达可以用“とても”来说明，意思是“very”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0078",
@@ -775,9 +852,10 @@
     "grammar": "つもり",
     "meaning": "plan to ~; intend to ~",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "今日は、この表現は「つもり」を使って説明できます。",
+    "example_cn": "今天，这个表达可以用“つもり”来说明，意思是“plan to”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0079",
@@ -785,9 +863,10 @@
     "grammar": "は",
     "meaning": "topic marker",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "学校で、この表現は「は」を使って説明できます。",
+    "example_cn": "在学校，这个表达可以用“は”来说明，意思是“topic marker”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0080",
@@ -795,9 +874,10 @@
     "grammar": "は〜より・・・です",
     "meaning": "[Noun-1] is more ~ than [Noun-2]",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "朝、「は〜より」を使うと自然に聞こえます。",
+    "example_cn": "早上，使用“は〜より”会听起来更自然，表示“[Noun-1] is more  than [Noun-2]”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0081",
@@ -805,9 +885,10 @@
     "grammar": "はどうですか",
     "meaning": "how about; how is",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "朝、この表現は「はどうですか」を使って説明できます。",
+    "example_cn": "早上，这个表达可以用“はどうですか”来说明，意思是“how about”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0082",
@@ -815,9 +896,10 @@
     "grammar": "や",
     "meaning": "and; or; connecting particle",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "家で、この表現は「や」を使って説明できます。",
+    "example_cn": "在家里，这个表达可以用“や”来说明，意思是“and”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0083",
@@ -825,9 +907,10 @@
     "grammar": "よ",
     "meaning": "you know; emphasis (ending particle)",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "学校で、この表現は「よ」を使って説明できます。",
+    "example_cn": "在学校，这个表达可以用“よ”来说明，意思是“you know”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   },
   {
     "id": "n5_grammar_0084",
@@ -835,8 +918,9 @@
     "grammar": "より～ほうが",
     "meaning": "[2] is more than [1]",
     "usage": "",
-    "example": "",
-    "example_cn": "",
-    "note": ""
+    "example": "今日は、「よりほうが」を使うと自然に聞こえます。",
+    "example_cn": "今天，使用“よりほうが”会听起来更自然，表示“[2] is more than [1]”。",
+    "note": "",
+    "example_source": "local_rule_daily_life"
   }
 ]
