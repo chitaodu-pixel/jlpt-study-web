@@ -32,6 +32,7 @@ const error = ref('')
 const message = ref('')
 
 async function handleRegister() {
+  if (loading.value) return
   loading.value = true
   error.value = ''
   message.value = ''
@@ -39,7 +40,7 @@ async function handleRegister() {
     await signUp(email.value, password.value)
     message.value = '注册成功，可以直接登录。'
   } catch (err) {
-    error.value = err.message
+    error.value = err.message || '注册失败'
   } finally {
     loading.value = false
   }

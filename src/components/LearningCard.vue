@@ -29,8 +29,8 @@
       <h2 class="jp-title">{{ item.grammar }}</h2>
       <p class="meaning">{{ item.meaning }}</p>
       <dl class="detail-list">
-        <div><dt>接续</dt><dd>{{ item.usage }}</dd></div>
-        <div><dt>易错点</dt><dd>{{ item.note }}</dd></div>
+        <div><dt>接续</dt><dd>{{ item.usage || '暂无' }}</dd></div>
+        <div><dt>易错点</dt><dd>{{ item.note || '暂无' }}</dd></div>
       </dl>
       <div v-if="item.example" class="example-box">
         <p>{{ item.example }}</p>

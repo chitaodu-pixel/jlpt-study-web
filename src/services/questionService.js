@@ -3,7 +3,7 @@ function shuffle(items) {
 }
 
 function buildOptions(correct, pool, pickValue) {
-  const wrong = shuffle(pool.map(pickValue).filter((value) => value && value !== correct)).slice(0, 3)
+  const wrong = shuffle([...new Set(pool.map(pickValue).filter((value) => value && value !== correct))]).slice(0, 3)
   return shuffle([...new Set([correct, ...wrong])]).slice(0, 4)
 }
 

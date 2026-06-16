@@ -17,6 +17,7 @@ body {
   margin: 0;
   min-width: 320px;
   min-height: 100vh;
+  overflow-x: hidden;
   background:
     linear-gradient(180deg, rgba(20, 184, 166, 0.06), transparent 240px),
     #f7faf9;
@@ -26,6 +27,13 @@ button,
 input,
 select {
   font: inherit;
+}
+
+button,
+input,
+select,
+a {
+  max-width: 100%;
 }
 
 button,
@@ -166,6 +174,27 @@ select:focus {
   line-height: 1;
 }
 
+.level-switch {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 8px;
+  margin: 14px 0;
+}
+
+.level-switch button {
+  min-height: 46px;
+  padding: 0 8px;
+  background: #ffffff;
+  color: #0f766e;
+  border: 1px solid #cfe3de;
+}
+
+.level-switch button.active {
+  background: #0f766e;
+  color: #ffffff;
+  border-color: #0f766e;
+}
+
 .stats-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -204,6 +233,10 @@ select:focus {
 .section-block h2 {
   margin: 0 0 12px;
   font-size: 18px;
+}
+
+.section-block .card-topline h2 {
+  margin: 0;
 }
 
 .task-list {
@@ -270,6 +303,20 @@ select:focus {
 .card-list {
   display: grid;
   gap: 14px;
+}
+
+.list-mode {
+  margin-top: 12px;
+}
+
+.compact-card {
+  padding: 14px;
+}
+
+.compact-card h2 {
+  margin: 0 0 6px;
+  font-size: 22px;
+  line-height: 1.2;
 }
 
 .study-card {
@@ -439,10 +486,17 @@ select:focus {
 
 .filter-row {
   margin-bottom: 14px;
+  flex-wrap: wrap;
 }
 
 .filter-row select {
-  min-width: 0;
+  min-width: 140px;
+  flex: 1 1 140px;
+}
+
+.empty-state button,
+.answer-box button {
+  margin-top: 10px;
 }
 
 @media (min-width: 720px) {

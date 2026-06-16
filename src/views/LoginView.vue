@@ -12,6 +12,7 @@
           密码
           <input v-model="password" type="password" required autocomplete="current-password" placeholder="至少 6 位" />
         </label>
+        <p v-if="status" class="notice success">{{ status }}</p>
         <p v-if="error" class="notice error">{{ error }}</p>
         <button type="submit" :disabled="loading">{{ loading ? '登录中...' : '登录' }}</button>
       </form>
@@ -31,15 +32,20 @@ const email = ref('')
 const password = ref('')
 const loading = ref(false)
 const error = ref('')
+const status = ref('')
 
 async function handleLogin() {
+  if (loading.value) return
   loading.value = true
   error.value = ''
+  status.value = '登录中...'
   try {
     await signIn(email.value, password.value)
+    status.value = '正在同步学习数据...'
     await router.push(route.query.redirect || '/')
   } catch (err) {
-    error.value = err.message
+    error.value = err.message || '登录失败'
+    status.value = ''
   } finally {
     loading.value = false
   }

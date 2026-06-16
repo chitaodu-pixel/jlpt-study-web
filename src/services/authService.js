@@ -26,3 +26,10 @@ export async function getCurrentUser() {
   if (error) return null
   return data.user
 }
+
+export async function getCurrentSession() {
+  if (!supabase) return null
+  const { data, error } = await supabase.auth.getSession()
+  if (error) return null
+  return data.session
+}
