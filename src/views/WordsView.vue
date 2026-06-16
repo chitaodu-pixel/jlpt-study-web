@@ -40,7 +40,9 @@
               </div>
               <h2>{{ word.word }}</h2>
               <p class="kana">{{ word.kana }}</p>
-              <p>{{ word.meaning }}</p>
+              <p>{{ word.meaning_cn || word.meaning }}</p>
+              <p v-if="word.example" class="muted">{{ word.example }}</p>
+              <p v-if="word.example_cn" class="muted">{{ word.example_cn }}</p>
             </article>
           </div>
           <button v-if="canLoadMore" class="wide-button secondary-button" type="button" @click="visibleCount += pageSize">加载更多</button>

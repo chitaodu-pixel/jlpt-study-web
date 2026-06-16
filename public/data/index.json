@@ -1,22 +1,22 @@
 {
   "N5": {
-    "wordCount": 643,
+    "wordCount": 625,
     "grammarCount": 84
   },
   "N4": {
-    "wordCount": 570,
+    "wordCount": 613,
     "grammarCount": 130
   },
   "N3": {
-    "wordCount": 191,
+    "wordCount": 1588,
     "grammarCount": 182
   },
   "N2": {
-    "wordCount": 99,
+    "wordCount": 1723,
     "grammarCount": 197
   },
   "N1": {
-    "wordCount": 17,
+    "wordCount": 3048,
     "grammarCount": 253
   }
 }
